@@ -1,0 +1,160 @@
+.usersList {
+  flex: 6;
+  height: 100vh;
+  overflow: auto;
+   /* Add overflow for smaller screens */
+}
+
+.userAvatar {
+  display: flex;
+  align-items: center;
+}
+
+.userAvatarImg {
+  width: 32px;
+  height: auto;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 10px;
+}
+
+.editBtn {
+  border: none;
+  border-radius: 20px;
+  padding: 5px 15px;
+  color: white;
+  font-size: 14px;
+  background-color: #b279c1;
+  cursor: pointer;
+  margin-right: 10px;
+  display: flex;
+  align-items: center;
+  transition: 0.4s all ease;
+}
+
+.editBtn:hover {
+  background-color: #7e428e;
+}
+
+.deleteBtn {
+  color: rgb(215, 35, 35);
+  cursor: pointer;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 0.5px solid #427884;
+  padding: 15px;
+  text-align: left;
+}
+
+td {
+  font-size: 18px;
+}
+
+tr {
+  transition: 0.4s all ease;
+  cursor: pointer;
+}
+
+.tableData {
+  background-color: #eeeeee;
+}
+
+th {
+  background-color: #427884;
+  color: white;
+  font-size: 22px;
+  font-weight: 400;
+  position: sticky;
+  top: 0px;
+  z-index: 100;
+}
+
+tr:hover {
+  background-color: #3e7f9f;
+}
+
+.actionBtns {
+  display: flex;
+  flex-wrap: wrap; /* Allow buttons to wrap to the next line on smaller screens */
+  align-items: center;
+  gap: 10px;
+}
+
+.editUserBtn {
+  margin-right: 10px;
+  border: none;
+  padding: 5px 15px;
+  background-color: #427884;
+  color: white;
+  text-transform: capitalize;
+  cursor: pointer;
+  transition: 0.3s all ease-in;
+}
+
+.editUserBtn:hover {
+  background-color: #1b3848;
+}
+
+.deleteUserBtn {
+  color: rgb(235, 74, 74);
+}
+
+tr.isBlocked {
+  opacity: 0.55;
+  background-color: #1b3848;
+}
+
+.remobeBlockBtn {
+  margin-right: 10px;
+  border: none;
+  padding: 5px 15px;
+  background-color: #bc332a;
+  color: white;
+  text-transform: capitalize;
+  cursor: pointer;
+  transition: 0.3s all ease-in;
+}
+
+.remobeBlockBtn:hover {
+  background-color: #cf1e11;
+}
+
+/* Media queries for responsiveness */
+@media (max-width: 1200px) {
+  .editBtn {
+      margin-right: 5px;
+  }
+}
+
+@media (max-width: 992px) {
+  .editBtn {
+      margin-right: 0;
+      margin-bottom: 5px;
+  }
+}
+
+@media (max-width: 768px) {
+  .editBtn,
+  .deleteBtn {
+      font-size: 12px;
+      padding: 5px 10px;
+  }
+
+  .actionBtns {
+      flex-direction: column;
+  }
+}
+
+@media (max-width: 576px) {
+  .editBtn,
+  .deleteBtn {
+      font-size: 10px;
+      padding: 4px 8px;
+  }
+}

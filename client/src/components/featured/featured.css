@@ -1,0 +1,89 @@
+.featured{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+
+.featuredItem{
+    flex: 1;
+    border-radius: 20px;
+    margin: 10px 20px;
+    padding: 30px;
+    cursor: pointer;
+    box-shadow: 6px 8px 26px 2px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 6px 8px 26px 2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 6px 8px 26px 2px rgba(0,0,0,0.75);
+    background-color: #427884 ;
+    color:#ffffffd9;
+    transition: 0.4s all ease;
+}
+
+.featuredItem:hover{
+    box-shadow: 6px 12px 32px 9px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 6px 12px 32px 9px rgba(0,0,0,0.75);
+    -moz-box-shadow: 6px 12px 32px 9px rgba(0,0,0,0.75);
+    transform: scale(0.97);
+}
+
+.featuredTitle{
+    font-size: 20px;
+}
+
+.featuredUsersContainer{
+    display: flex;
+    align-items: center;
+    margin: 10px 0px;
+}
+
+.featuredUsersNum{
+    font-size: 30px;
+    font-weight: 500;
+    margin-right: 20px;
+}
+
+.featuredUsersNumRate{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 17px;
+    margin-top: 5px;
+}
+
+.arrowUpIcon{
+    color: green;
+    font-size: 15px;
+    margin-bottom: 5px
+}
+
+.arrowDownIcon{
+    color: red;
+    font-size: 15px;
+    margin-bottom: 5px
+}
+
+.lastMonth{
+    font-size:20px;
+    color: rgb(226, 226, 226);
+}
+
+
+@media (max-width: 1200px) {
+    .featuredItem {
+        flex: 1 1 100%;
+        margin: 10px;
+    }
+}
+
+@media (max-width: 768px) {
+    .featuredItem {
+        flex: 1 1 calc(50% - 20px);
+    }
+}
+
+@media (max-width: 480px) {
+    .featuredItem {
+        flex: 1 1 calc(100% - 20px);
+    }
+}

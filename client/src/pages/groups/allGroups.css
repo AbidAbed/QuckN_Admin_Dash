@@ -1,0 +1,116 @@
+.allGroups{
+    flex: 6;
+}
+
+
+.editBtn{
+    border: none;
+    border-radius: 20px;
+    padding: 5px 15px;
+    color: white;
+    font-size: 14px;
+    background-color: #b279c1;
+    cursor: pointer;
+    margin-right: 30px;
+    display: flex;
+    align-items: center;
+    transition: 0.4s all ease;
+}
+
+.editBtn:hover{
+    background-color: #7e428e;
+}
+
+.deleteBtn{
+    color: rgb(215, 35, 35);
+    cursor: pointer;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  th, td {
+    border: 0.5px solid #427884 ;
+    padding: 15px;
+    text-align: left;
+  }
+
+  td{
+    font-size: 18px;
+  }
+
+  tr{
+    transition: 0.4s all ease;
+    cursor: pointer;
+  }
+
+  .custom-tableData{
+    background-color: #eeeeee ;
+  }
+
+  th {
+    background-color: #427884 ;
+    color: white;
+    font-size: 22px;
+    font-weight: 400;
+    position: sticky;
+    top: 0px;
+    z-index: 100;
+  }
+
+  tr:hover {
+    background-color: #3e7f9f;
+  }
+
+  .actionBtns{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .editGroupBtn{
+    border: none;
+    padding: 5px 10px;
+    background-color: #427884  ;
+    color: white;
+    text-transform: capitalize;
+    cursor: pointer;
+    transition: 0.3s all ease-in;
+    margin-right: 5px;
+  }
+
+
+  .editGroupBtnDelete{
+    border: none;
+    padding: 5px 10px;
+    background-color: rgb(204, 63, 63)  ;
+    color: white;
+    text-transform: capitalize;
+    cursor: pointer;
+    transition: 0.4s all ease;
+    margin-right: 5px;
+  }
+
+  .editGroupBtnDelete:hover{
+    background-color: rgb(197, 13, 13);
+    transform: scale(0.96);
+  }
+
+  .editGroupBtnDelete:disabled{
+    background-color: gray;
+    transform: none;
+    cursor: default;
+  }
+
+  
+
+  .editGroupBtn:hover{
+    background-color: #1b3848;
+  }
+
+  .deleteUserBtn{
+    color: rgb(235, 74, 74);
+  }
+

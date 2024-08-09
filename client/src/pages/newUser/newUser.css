@@ -1,0 +1,81 @@
+.newUser{
+    flex: 6;
+    padding: 20px;
+    width: 100%;
+}
+
+.newUserTitle{
+  color: #427884 ;
+}
+
+.newUserForm {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+  
+.newUserItem {
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    margin-right: 20px;
+  }
+  
+.newUserItem > label {
+    margin-bottom: 10px;
+    font-size: 22px;
+    font-weight: 500;
+    color: #427884 ;
+  }
+  
+.newUserItem > input {
+    height: 50px;
+    padding: 15px 20px;
+    border: 1px solid #427884 ;
+    border-radius: 10px;
+  }
+  
+
+.newUserSelect{
+      height: 40px;
+      padding: 5px 15px;
+      border-radius: 5px;
+      border: 1px solid #427884 ;
+  }
+
+  
+.newUserButton{
+      border: none;
+      background-color: #427884 ;
+      color: white;
+      font-weight: 400;
+      border-radius: 20px;
+      cursor: pointer;
+      margin-top: 35px;
+      width: 150px;
+      padding: 10px 15px;
+      font-size: 18px;
+      transition: 0.4s all ease;
+  }
+
+  .newUserButton:hover{
+    background-color: #203d44 ;
+  }
+
+
+  @media (max-width: 768px) {
+    .newUserForm {
+        gap: 15px;
+    }
+
+    .newUserItem {
+        width: 100%; /* Take full width on smaller screens */
+        margin-right: 0;
+    }
+
+    .newUserButton {
+        margin-top: 15px; /* Adjust spacing on smaller screens */
+    }
+}

@@ -1,0 +1,1740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 210.28 93.07">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Degradado_sin_nombre_102-2);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32, .cls-33, .cls-34, .cls-35, .cls-36, .cls-37, .cls-38, .cls-39, .cls-40, .cls-41, .cls-42, .cls-43, .cls-44, .cls-45, .cls-46, .cls-47, .cls-48, .cls-49, .cls-50, .cls-51, .cls-52, .cls-53, .cls-54, .cls-55, .cls-56, .cls-57 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-17, .cls-24, .cls-26, .cls-27, .cls-28, .cls-35, .cls-58, .cls-48 {
+        mix-blend-mode: color-dodge;
+      }
+
+      .cls-2 {
+        fill: url(#Degradado_sin_nombre_936-10);
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-6, .cls-59, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-18, .cls-22, .cls-23, .cls-60, .cls-61, .cls-29, .cls-30, .cls-31, .cls-32, .cls-34, .cls-36, .cls-40, .cls-41, .cls-42, .cls-43, .cls-44, .cls-45, .cls-46, .cls-47, .cls-49, .cls-50, .cls-51, .cls-52, .cls-54, .cls-55, .cls-56, .cls-57 {
+        mix-blend-mode: screen;
+      }
+
+      .cls-3 {
+        fill: url(#Degradado_sin_nombre_936-11);
+      }
+
+      .cls-62 {
+        filter: url(#drop-shadow-7);
+      }
+
+      .cls-4 {
+        fill: url(#Degradado_sin_nombre_936-18);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-9);
+        mix-blend-mode: soft-light;
+      }
+
+      .cls-63 {
+        clip-path: url(#clippath-20);
+      }
+
+      .cls-6 {
+        fill: url(#Degradado_sin_nombre_936-9);
+      }
+
+      .cls-64 {
+        clip-path: url(#clippath-11);
+      }
+
+      .cls-65 {
+        clip-path: url(#clippath-16);
+      }
+
+      .cls-59 {
+        opacity: .4;
+      }
+
+      .cls-7 {
+        fill: url(#Degradado_sin_nombre_936-7);
+      }
+
+      .cls-8 {
+        fill: url(#Degradado_sin_nombre_936-13);
+      }
+
+      .cls-66 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-66, .cls-67, .cls-68, .cls-69, .cls-70 {
+        stroke-width: .48px;
+      }
+
+      .cls-66, .cls-67, .cls-68, .cls-70 {
+        stroke: #048aa9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-9 {
+        fill: url(#Degradado_sin_nombre_936-14);
+      }
+
+      .cls-10 {
+        fill: url(#Degradado_sin_nombre_936-24);
+      }
+
+      .cls-11 {
+        fill: url(#Degradado_sin_nombre_936-37);
+      }
+
+      .cls-12 {
+        fill: url(#Degradado_sin_nombre_936-2);
+      }
+
+      .cls-13 {
+        fill: url(#Degradado_sin_nombre_936-36);
+      }
+
+      .cls-14 {
+        fill: url(#Degradado_sin_nombre_936-8);
+      }
+
+      .cls-15 {
+        fill: url(#linear-gradient-8);
+        filter: url(#drop-shadow-10);
+      }
+
+      .cls-15, .cls-69, .cls-53 {
+        opacity: .79;
+      }
+
+      .cls-71 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-16 {
+        opacity: .33;
+      }
+
+      .cls-16, .cls-33 {
+        fill: #fff;
+      }
+
+      .cls-72 {
+        clip-path: url(#clippath-13);
+      }
+
+      .cls-73 {
+        isolation: isolate;
+      }
+
+      .cls-17 {
+        fill: url(#Degradado_sin_nombre_102);
+      }
+
+      .cls-67 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-18 {
+        fill: url(#Degradado_sin_nombre_936-4);
+      }
+
+      .cls-19 {
+        fill: #55cae5;
+      }
+
+      .cls-74 {
+        clip-path: url(#clippath-15);
+      }
+
+      .cls-75 {
+        clip-path: url(#clippath-6);
+      }
+
+      .cls-20 {
+        fill: url(#linear-gradient-11);
+      }
+
+      .cls-21 {
+        fill: #58c7e1;
+      }
+
+      .cls-22 {
+        fill: url(#Degradado_sin_nombre_936-32);
+      }
+
+      .cls-68 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-23 {
+        fill: url(#Degradado_sin_nombre_936-33);
+      }
+
+      .cls-24 {
+        fill: url(#Degradado_sin_nombre_102-3);
+      }
+
+      .cls-25 {
+        fill: none;
+      }
+
+      .cls-26 {
+        fill: url(#Degradado_sin_nombre_59-4);
+      }
+
+      .cls-76 {
+        clip-path: url(#clippath-7);
+      }
+
+      .cls-77 {
+        clip-path: url(#clippath-21);
+      }
+
+      .cls-27 {
+        fill: url(#Degradado_sin_nombre_59-2);
+      }
+
+      .cls-78 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-60 {
+        opacity: .18;
+      }
+
+      .cls-79 {
+        clip-path: url(#clippath-4);
+      }
+
+      .cls-80 {
+        opacity: .58;
+      }
+
+      .cls-28 {
+        fill: url(#Degradado_sin_nombre_59);
+      }
+
+      .cls-61 {
+        opacity: .49;
+      }
+
+      .cls-29 {
+        fill: url(#Degradado_sin_nombre_936-34);
+      }
+
+      .cls-30 {
+        fill: url(#Degradado_sin_nombre_936-3);
+      }
+
+      .cls-31 {
+        fill: url(#Degradado_sin_nombre_936-29);
+      }
+
+      .cls-81 {
+        clip-path: url(#clippath-12);
+      }
+
+      .cls-32 {
+        fill: url(#Degradado_sin_nombre_936-26);
+      }
+
+      .cls-34 {
+        fill: url(#Degradado_sin_nombre_936-35);
+      }
+
+      .cls-69 {
+        fill: url(#linear-gradient-5);
+        stroke: #6dad70;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-35 {
+        fill: url(#Degradado_sin_nombre_102-4);
+      }
+
+      .cls-36 {
+        fill: url(#Degradado_sin_nombre_936-23);
+      }
+
+      .cls-70 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-37 {
+        fill: url(#linear-gradient-7);
+      }
+
+      .cls-82 {
+        mix-blend-mode: overlay;
+        opacity: .6;
+      }
+
+      .cls-83 {
+        clip-path: url(#clippath-9);
+      }
+
+      .cls-84 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-38 {
+        fill: url(#linear-gradient-6);
+        filter: url(#drop-shadow-8);
+      }
+
+      .cls-39 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-40 {
+        fill: url(#Degradado_sin_nombre_936-31);
+      }
+
+      .cls-85 {
+        opacity: .43;
+      }
+
+      .cls-41 {
+        fill: url(#Degradado_sin_nombre_936);
+      }
+
+      .cls-42 {
+        fill: url(#Degradado_sin_nombre_936-20);
+      }
+
+      .cls-86 {
+        clip-path: url(#clippath-19);
+      }
+
+      .cls-58 {
+        opacity: .3;
+      }
+
+      .cls-87 {
+        mix-blend-mode: luminosity;
+      }
+
+      .cls-88 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-43 {
+        fill: url(#Degradado_sin_nombre_936-17);
+      }
+
+      .cls-89 {
+        filter: url(#drop-shadow-9);
+      }
+
+      .cls-90 {
+        clip-path: url(#clippath-8);
+      }
+
+      .cls-91 {
+        filter: url(#luminosity-noclip);
+      }
+
+      .cls-92 {
+        mask: url(#mask-1);
+      }
+
+      .cls-93 {
+        mask: url(#mask);
+      }
+
+      .cls-94 {
+        clip-path: url(#clippath-18);
+      }
+
+      .cls-95 {
+        clip-path: url(#clippath-14);
+      }
+
+      .cls-96 {
+        clip-path: url(#clippath-17);
+      }
+
+      .cls-44 {
+        fill: url(#Degradado_sin_nombre_936-6);
+      }
+
+      .cls-97 {
+        clip-path: url(#clippath-5);
+      }
+
+      .cls-45 {
+        fill: url(#Degradado_sin_nombre_936-22);
+      }
+
+      .cls-46 {
+        fill: url(#Degradado_sin_nombre_936-30);
+      }
+
+      .cls-47 {
+        fill: url(#Degradado_sin_nombre_936-19);
+      }
+
+      .cls-98 {
+        clip-path: url(#clippath-10);
+      }
+
+      .cls-48 {
+        fill: url(#Degradado_sin_nombre_59-3);
+      }
+
+      .cls-99 {
+        filter: url(#luminosity-noclip-2);
+      }
+
+      .cls-49 {
+        fill: url(#Degradado_sin_nombre_936-28);
+      }
+
+      .cls-50 {
+        fill: url(#Degradado_sin_nombre_936-27);
+      }
+
+      .cls-51 {
+        fill: url(#Degradado_sin_nombre_936-5);
+      }
+
+      .cls-52 {
+        fill: url(#Degradado_sin_nombre_936-25);
+      }
+
+      .cls-53 {
+        fill: url(#linear-gradient-10);
+        filter: url(#drop-shadow-11);
+      }
+
+      .cls-54 {
+        fill: url(#Degradado_sin_nombre_936-21);
+      }
+
+      .cls-55 {
+        fill: url(#Degradado_sin_nombre_936-12);
+      }
+
+      .cls-56 {
+        fill: url(#Degradado_sin_nombre_936-15);
+      }
+
+      .cls-57 {
+        fill: url(#Degradado_sin_nombre_936-16);
+      }
+    </style>
+    <filter id="drop-shadow-7" filterUnits="userSpaceOnUse">
+      <feOffset dx="1.43" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="0"/>
+      <feFlood flood-color="#bcd5dd" flood-opacity=".68"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="91.55" y1="59.67" x2="107.36" y2="59.67" gradientUnits="userSpaceOnUse">
+      <stop offset=".02" stop-color="#159f9b"/>
+      <stop offset=".24" stop-color="#048aa9"/>
+      <stop offset=".55" stop-color="#09597a"/>
+      <stop offset=".85" stop-color="#0d3053"/>
+      <stop offset="1" stop-color="#0f2145"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="118.43" y1="55.98" x2="120.72" y2="55.98" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="131.22" y1="59.52" x2="147.31" y2="59.52" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="157.6" y1="55.98" x2="172.61" y2="55.98" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="164.46" y1="26.16" x2="231.57" y2="98.08" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6dad70" stop-opacity="0"/>
+      <stop offset=".01" stop-color="#6dad70" stop-opacity=".06"/>
+      <stop offset=".07" stop-color="#6dad70" stop-opacity=".28"/>
+      <stop offset=".14" stop-color="#6dad70" stop-opacity=".47"/>
+      <stop offset=".21" stop-color="#6dad70" stop-opacity=".64"/>
+      <stop offset=".29" stop-color="#6dad70" stop-opacity=".77"/>
+      <stop offset=".39" stop-color="#6dad70" stop-opacity=".87"/>
+      <stop offset=".5" stop-color="#6dad70" stop-opacity=".95"/>
+      <stop offset=".65" stop-color="#6dad70" stop-opacity=".99"/>
+      <stop offset="1" stop-color="#6dad70"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="54.23" y1="82.02" x2="12.89" y2="1.31" xlink:href="#linear-gradient"/>
+    <filter id="drop-shadow-8" filterUnits="userSpaceOnUse">
+      <feOffset dx="1.11" dy="0"/>
+      <feGaussianBlur result="blur-2" stdDeviation="0"/>
+      <feFlood flood-color="#7ec4c0" flood-opacity=".69"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-9" filterUnits="userSpaceOnUse">
+      <feOffset dx="-.55" dy="0"/>
+      <feGaussianBlur result="blur-3" stdDeviation="0"/>
+      <feFlood flood-color="#4eadaa" flood-opacity=".78"/>
+      <feComposite in2="blur-3" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-7" x1="59.25" y1="79.52" x2="17.91" y2="-1.19" xlink:href="#linear-gradient"/>
+    <clipPath id="clippath">
+      <polygon class="cls-25" points="36.37 14.4 30.72 17.19 22.82 23.6 18.61 29.61 14.46 39.18 14.11 48.67 7.83 60.85 5.24 43.22 7.17 35.57 10.58 27.15 22.58 15.97 32 12.07 36.37 14.4"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <polygon class="cls-25" points="68.59 16.21 62.62 14.23 51.84 12.69 43.14 12.88 35.08 14.89 27.67 19.16 23.96 22.42 26.2 14.81 33.07 11.79 40.53 10.75 50.02 11.66 54.21 13.03 68.59 16.21"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <polygon class="cls-25" points="13.8 42.79 13.54 49.02 16.21 59.13 20.17 66.12 28.48 74.77 37.04 78.91 42.95 80.39 49.51 80.77 61.61 78.62 49.32 83.15 36.37 83.91 28.69 81.47 22.09 77.94 14.39 72.24 6.81 58.32 5.24 47.33 13.8 42.79"/>
+    </clipPath>
+    <radialGradient id="Degradado_sin_nombre_936" data-name="Degradado sin nombre 936" cx="14.9" cy="36.55" fx="14.9" fy="36.55" r=".48" gradientUnits="userSpaceOnUse">
+      <stop offset=".02" stop-color="#fff"/>
+      <stop offset=".73" stop-color="#000"/>
+    </radialGradient>
+    <radialGradient id="Degradado_sin_nombre_936-2" data-name="Degradado sin nombre 936" cx="6390.47" cy="3905.44" fx="6390.47" fy="3905.44" r=".53" gradientTransform="translate(-368.17 -7407.25) rotate(55.59)" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-3" data-name="Degradado sin nombre 936" cx="12.67" cy="29.6" fx="12.67" fy="29.6" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-4" data-name="Degradado sin nombre 936" cx="6377.99" cy="3906.33" fx="6377.99" fy="3906.33" r=".53" gradientTransform="translate(-368.17 -7407.25) rotate(55.59)" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-5" data-name="Degradado sin nombre 936" cx="9.17" cy="46.4" fx="9.17" fy="46.4" r=".48" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-6" data-name="Degradado sin nombre 936" cx="6381.88" cy="3907.74" fx="6381.88" fy="3907.74" r=".53" gradientTransform="translate(-368.17 -7407.25) rotate(55.59)" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-7" data-name="Degradado sin nombre 936" cx="5266.48" cy="8727.27" fx="5266.48" fy="8727.27" r=".53" gradientTransform="translate(4489.12 -6966.58) rotate(81.66) scale(.97 .62) skewX(8.02)" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-8" data-name="Degradado sin nombre 936" cx="13.24" cy="58.31" fx="13.24" fy="58.31" r=".48" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-9" data-name="Degradado sin nombre 936" cx="13.34" cy="46.9" fx="13.34" fy="46.9" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-10" data-name="Degradado sin nombre 936" cx="30.77" cy="78.51" fx="30.77" fy="78.51" r=".48" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-11" data-name="Degradado sin nombre 936" cx="28.98" cy="80.39" fx="28.98" fy="80.39" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-12" data-name="Degradado sin nombre 936" cx="36.58" cy="82.18" fx="36.58" fy="82.18" r=".48" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-13" data-name="Degradado sin nombre 936" cx="13.91" cy="40.83" fx="13.91" fy="40.83" r=".48" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-14" data-name="Degradado sin nombre 936" cx="15.28" cy="26.4" fx="15.28" fy="26.4" r=".48" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-15" data-name="Degradado sin nombre 936" cx="46.7" cy="15.89" fx="46.7" fy="15.89" r=".48" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-16" data-name="Degradado sin nombre 936" cx="49.62" cy="15.39" fx="49.62" fy="15.39" r=".48" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-17" data-name="Degradado sin nombre 936" cx="56.45" cy="17.95" fx="56.45" fy="17.95" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-18" data-name="Degradado sin nombre 936" cx="58.38" cy="20.19" fx="58.38" fy="20.19" r=".48" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-19" data-name="Degradado sin nombre 936" cx="59.37" cy="17.45" fx="59.37" fy="17.45" r=".48" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-20" data-name="Degradado sin nombre 936" cx="9.17" cy="38.63" fx="9.17" fy="38.63" r=".48" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-21" data-name="Degradado sin nombre 936" cx="33.56" cy="78.63" fx="33.56" fy="78.63" r=".48" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_102" data-name="Degradado sin nombre 102" cx="11666.24" cy="-24870.24" fx="11666.24" fy="-24870.24" r="1.38" gradientTransform="translate(-868.31 -19955.08) rotate(49.67) scale(1.97 -.49) skewX(8.34)" gradientUnits="userSpaceOnUse">
+      <stop offset=".11" stop-color="#fff"/>
+      <stop offset=".14" stop-color="#fff" stop-opacity=".84"/>
+      <stop offset=".17" stop-color="#fff" stop-opacity=".66"/>
+      <stop offset=".2" stop-color="#fff" stop-opacity=".5"/>
+      <stop offset=".23" stop-color="#fff" stop-opacity=".37"/>
+      <stop offset=".27" stop-color="#fff" stop-opacity=".25"/>
+      <stop offset=".31" stop-color="#fff" stop-opacity=".16"/>
+      <stop offset=".36" stop-color="#fff" stop-opacity=".09"/>
+      <stop offset=".42" stop-color="#fff" stop-opacity=".04"/>
+      <stop offset=".49" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".65" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="Degradado_sin_nombre_59" data-name="Degradado sin nombre 59" cx="14220.9" cy="-5182.24" fx="14220.9" fy="-5182.24" r="2.6" gradientTransform="translate(11680.66 -18709.09) rotate(99.5) scale(1.44 -1.62) skewX(.3)" gradientUnits="userSpaceOnUse">
+      <stop offset=".15" stop-color="#fff"/>
+      <stop offset=".19" stop-color="#fff" stop-opacity=".82"/>
+      <stop offset=".23" stop-color="#fff" stop-opacity=".65"/>
+      <stop offset=".28" stop-color="#fff" stop-opacity=".49"/>
+      <stop offset=".33" stop-color="#fff" stop-opacity=".36"/>
+      <stop offset=".39" stop-color="#fff" stop-opacity=".25"/>
+      <stop offset=".45" stop-color="#fff" stop-opacity=".15"/>
+      <stop offset=".52" stop-color="#fff" stop-opacity=".09"/>
+      <stop offset=".61" stop-color="#fff" stop-opacity=".04"/>
+      <stop offset=".73" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="Degradado_sin_nombre_102-2" data-name="Degradado sin nombre 102" cx="11706.72" cy="-24956.39" fx="11706.72" fy="-24956.39" r="2.75" xlink:href="#Degradado_sin_nombre_102"/>
+    <radialGradient id="Degradado_sin_nombre_59-2" data-name="Degradado sin nombre 59" cx="14267.89" cy="-5171.57" fx="14267.89" fy="-5171.57" r="5.18" xlink:href="#Degradado_sin_nombre_59"/>
+    <radialGradient id="Degradado_sin_nombre_102-3" data-name="Degradado sin nombre 102" cx="11661.25" cy="-24870.66" fx="11661.25" fy="-24870.66" r="2.75" xlink:href="#Degradado_sin_nombre_102"/>
+    <radialGradient id="Degradado_sin_nombre_59-3" data-name="Degradado sin nombre 59" cx="14216.4" cy="-5185.4" fx="14216.4" fy="-5185.4" r="5.18" xlink:href="#Degradado_sin_nombre_59"/>
+    <radialGradient id="Degradado_sin_nombre_102-4" data-name="Degradado sin nombre 102" cx="11673.58" cy="-24850.99" fx="11673.58" fy="-24850.99" r="2.75" xlink:href="#Degradado_sin_nombre_102"/>
+    <radialGradient id="Degradado_sin_nombre_59-4" data-name="Degradado sin nombre 59" cx="14224.64" cy="-5167.37" fx="14224.64" fy="-5167.37" r="5.18" xlink:href="#Degradado_sin_nombre_59"/>
+    <linearGradient id="linear-gradient-8" x1="15320.38" y1="76.6" x2="15359.1" y2="60.39" gradientTransform="translate(15412.83) rotate(-180) scale(1 -1)" xlink:href="#linear-gradient-5"/>
+    <filter id="drop-shadow-10" filterUnits="userSpaceOnUse">
+      <feOffset dx="1.58" dy="1.05"/>
+      <feGaussianBlur result="blur-4" stdDeviation="0"/>
+      <feFlood flood-color="#c7ddc7" flood-opacity=".75"/>
+      <feComposite in2="blur-4" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-9" x1="15336.22" y1="69.64" x2="15355.06" y2="62.73" gradientTransform="translate(15412.83) rotate(-180) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clippath-3">
+      <path class="cls-25" d="m67.1,64.95l-5.54-12.58s.02-.06.05-.04l17.57,15.43s.01.05-.01.06l-6.51,1.56s-.03.03-.02.05l6.55,13.44s-.02.06-.05.04l-19.05-16.5s-.01-.05.01-.06l6.97-1.35s.03-.03.02-.04Z"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="261.6" cy="12.24" fx="261.6" fy="12.24" r="10.04" gradientTransform="translate(-181.91 46.92) scale(1.01 .99)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="luminosity-noclip" x="67.05" y="56.51" width="20.16" height="19.68" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mask" x="67.05" y="56.51" width="20.16" height="19.68" maskUnits="userSpaceOnUse">
+      <g class="cls-91">
+        <use transform="translate(67.05 56.51) scale(.24)" xlink:href="#image"/>
+      </g>
+    </mask>
+    <linearGradient id="linear-gradient-10" x1="15320.38" y1="76.6" x2="15359.1" y2="60.39" gradientTransform="translate(15412.83) rotate(-180) scale(1 -1)" xlink:href="#linear-gradient-5"/>
+    <filter id="drop-shadow-11" filterUnits="userSpaceOnUse">
+      <feOffset dx="1.58" dy="1.05"/>
+      <feGaussianBlur result="blur-5" stdDeviation="0"/>
+      <feFlood flood-color="#c7ddc7" flood-opacity=".75"/>
+      <feComposite in2="blur-5" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clippath-4">
+      <path class="cls-25" d="m67.1,64.95l-5.54-12.58s.02-.06.05-.04l17.57,15.43s.01.05-.01.06l-6.51,1.56s-.03.03-.02.05l6.55,13.44s-.02.06-.05.04l-19.05-16.5s-.01-.05.01-.06l6.97-1.35s.03-.03.02-.04Z"/>
+    </clipPath>
+    <filter id="luminosity-noclip-2" x="67.05" y="56.51" width="20.16" height="19.68" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mask-1" x="67.05" y="56.51" width="20.16" height="19.68" maskUnits="userSpaceOnUse">
+      <g class="cls-99">
+        <use transform="translate(67.05 56.51) scale(.24)" xlink:href="#image"/>
+      </g>
+    </mask>
+    <clipPath id="clippath-5">
+      <path class="cls-25" d="m75.43,32.93c.42-.55.6-1.25.55-1.94-.07-.98-.51-1.65-1.06-2.08l-.11-.09-.43-.34c-1.08-.85-2.65-.92-3.7-.03-1.37,1.17-1.33,3.18-.1,4.31l.19.17.41.37c1.24,1.13,3.2.97,4.24-.39Z"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <path class="cls-25" d="m60.47,18.15c-.11-.86-.81-1.57-1.67-1.71-.11-.02-.22-.03-.33-.03h-.16s-.59,0-.59,0c-.94,0-1.81.62-2,1.54-.25,1.2.59,2.26,1.71,2.38l.25.02.59.06c1.26.13,2.36-.93,2.2-2.27Z"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <path class="cls-25" d="m80.39,50.12l.05-.55c.16-1.56-.75-3.1-2.25-3.56-2.05-.63-4.04.78-4.24,2.79,0,0,0,.02,0,.03v.06s-.05.54-.05.54v.05c-.12,1.4.63,2.78,1.93,3.32,2.17.89,4.35-.56,4.56-2.67Z"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <path class="cls-25" d="m78.58,42.79c1.21-.89,1.61-2.59.95-3.94-.05-.11-.11-.21-.17-.3l-.05-.08-.31-.47c-.81-1.25-2.38-1.87-3.77-1.34-1.9.71-2.59,2.87-1.66,4.51l.11.2.27.47c.93,1.63,3.08,2.12,4.64.97Z"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-11" x1="67.97" y1="26.8" x2="64.3" y2="19.63" xlink:href="#linear-gradient"/>
+    <clipPath id="clippath-9">
+      <path class="cls-25" d="m69.08,25.91c.42-.55.6-1.25.55-1.94-.07-.98-.51-1.65-1.06-2.08l-.11-.09-.43-.34c-1.08-.85-2.65-.92-3.7-.03-1.37,1.17-1.33,3.18-.1,4.31l.19.17.41.37c1.24,1.13,3.2.97,4.24-.39Z"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <path class="cls-25" d="m50.71,16.14c-.11-.86-.81-1.57-1.67-1.71-.11-.02-.22-.03-.33-.03h-.16s-.59,0-.59,0c-.94,0-1.81.62-2,1.54-.25,1.2.59,2.26,1.71,2.38l.25.02.59.06c1.26.13,2.36-.93,2.2-2.27Z"/>
+    </clipPath>
+    <radialGradient id="Degradado_sin_nombre_936-22" data-name="Degradado sin nombre 936" cx="65" cy="23.33" fx="65" fy="23.33" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-23" data-name="Degradado sin nombre 936" cx="66.62" cy="25" fx="66.62" fy="25" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-24" data-name="Degradado sin nombre 936" cx="67.93" cy="22.83" fx="67.93" fy="22.83" r=".48" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-25" data-name="Degradado sin nombre 936" cx="71.35" cy="30.36" fx="71.35" fy="30.36" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-26" data-name="Degradado sin nombre 936" cx="72.97" cy="32.02" fx="72.97" fy="32.02" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-27" data-name="Degradado sin nombre 936" cx="74.27" cy="28.68" fx="74.27" fy="28.68" r=".48" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-28" data-name="Degradado sin nombre 936" cx="74.7" cy="39.65" fx="74.7" fy="39.65" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-29" data-name="Degradado sin nombre 936" cx="76.31" cy="41.31" fx="76.31" fy="41.31" r=".48" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-30" data-name="Degradado sin nombre 936" cx="77.62" cy="37.97" fx="77.62" fy="37.97" r=".48" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-31" data-name="Degradado sin nombre 936" cx="75.7" cy="49.9" fx="75.7" fy="49.9" r=".48" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-32" data-name="Degradado sin nombre 936" cx="77.32" cy="51.56" fx="77.32" fy="51.56" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-33" data-name="Degradado sin nombre 936" cx="78.62" cy="48.22" fx="78.62" fy="48.22" r=".48" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-34" data-name="Degradado sin nombre 936" cx="51.95" cy="77.79" fx="51.95" fy="77.79" r=".48" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-35" data-name="Degradado sin nombre 936" cx="53.71" cy="76.12" fx="53.71" fy="76.12" r=".48" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-36" data-name="Degradado sin nombre 936" cx="41.41" cy="77.25" fx="41.41" fy="77.25" xlink:href="#Degradado_sin_nombre_936"/>
+    <radialGradient id="Degradado_sin_nombre_936-37" data-name="Degradado sin nombre 936" cx="43.16" cy="76.44" fx="43.16" fy="76.44" r=".48" xlink:href="#Degradado_sin_nombre_936"/>
+    <clipPath id="clippath-11">
+      <path class="cls-25" d="m39.94,17.37c-.08-.62-.58-1.13-1.2-1.22-.08-.01-.16-.02-.23-.02h-.11s-.42,0-.42,0c-.67,0-1.29.45-1.43,1.1-.18.86.42,1.62,1.23,1.71l.18.02.42.04c.9.09,1.7-.67,1.58-1.63Z"/>
+    </clipPath>
+    <clipPath id="clippath-12">
+      <path class="cls-25" d="m30.14,21.99c-.05-.41-.39-.75-.8-.82-.05,0-.11-.01-.16-.01h-.08s-.28,0-.28,0c-.45,0-.87.3-.96.74-.12.58.28,1.09.82,1.14h.12s.28.04.28.04c.6.06,1.14-.45,1.05-1.09Z"/>
+    </clipPath>
+    <clipPath id="clippath-13">
+      <path class="cls-25" d="m22.1,28.86c-.27-.13-.61-.06-.81.17-.03.03-.05.06-.07.09l-.03.05-.11.17c-.17.28-.16.65.08.88.31.3.78.25,1.02-.06l.05-.07.13-.16c.27-.35.17-.87-.26-1.07Z"/>
+    </clipPath>
+    <clipPath id="clippath-14">
+      <path class="cls-25" d="m17.55,38.42c-.28-.05-.56.11-.69.36-.02.03-.03.07-.04.1v.05s-.07.18-.07.18c-.09.29.03.62.29.76.35.19.76.03.9-.31l.03-.07.07-.18c.16-.38-.07-.82-.5-.89Z"/>
+    </clipPath>
+    <clipPath id="clippath-15">
+      <path class="cls-25" d="m16.53,49.02c-.15,0-.25.19-.26.44,0,.03,0,.06,0,.09v.05s.02.17.02.17c.02.27.15.53.31.61.21.1.38-.11.37-.43v-.07s0-.17,0-.17c0-.36-.22-.7-.44-.68Z"/>
+    </clipPath>
+    <clipPath id="clippath-16">
+      <path class="cls-25" d="m18.34,57.65c-.13.07-.15.28-.05.5.01.03.03.06.04.08l.02.04.08.15c.13.23.36.42.54.42.24,0,.29-.26.15-.55l-.03-.06-.07-.15c-.16-.32-.49-.54-.69-.43Z"/>
+    </clipPath>
+    <clipPath id="clippath-17">
+      <path class="cls-25" d="m23.36,66.56c-.16.19-.06.53.23.81.04.04.08.07.11.1l.06.05.22.18c.35.28.81.43,1.09.32.37-.14.3-.58-.09-.94l-.08-.08-.2-.19c-.44-.4-1.09-.54-1.33-.25Z"/>
+    </clipPath>
+    <clipPath id="clippath-18">
+      <path class="cls-25" d="m23.36,66.56c-.16.19-.06.53.23.81.04.04.08.07.11.1l.06.05.22.18c.35.28.81.43,1.09.32.37-.14.3-.58-.09-.94l-.08-.08-.2-.19c-.44-.4-1.09-.54-1.33-.25Z"/>
+    </clipPath>
+    <clipPath id="clippath-19">
+      <path class="cls-25" d="m31.51,72.89c-.24.29-.53.57-.09,1.01.06.06.12.11.18.16l.09.07.34.27c.54.44.89.37,1.33.2.57-.22.31-.59.28-1.27l-.18-.22-.31-.19c-.74-.43-1.26-.5-1.64-.04Z"/>
+    </clipPath>
+    <clipPath id="clippath-20">
+      <path class="cls-25" d="m41.14,75.86c-.24.29-.93.76-.48,1.2.06.06-.06.15,0,.2l.22.26.35.47c.54.44,1.23.5,1.67.33.57-.22.66-.26,1.03-.75l.16-.88-.64-.88c-.74-.43-1.93-.41-2.3.04Z"/>
+    </clipPath>
+    <clipPath id="clippath-21">
+      <path class="cls-25" d="m50.82,75.51c-.24.29-.88,1.02-.43,1.45.06.06-.03.43.03.48l.31.53.55.45c.54.44,1.31.27,1.75.1.57-.22,1.04-.29,1.41-.78l.34-1.8-1.03-1.05c-.74-.43-2.55.16-2.93.62Z"/>
+    </clipPath>
+    <image id="image" width="84" height="82" xlink:href="data:image/png;base64,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"/>
+  </defs>
+  <g class="cls-73">
+    <g id="Layer_6" data-name="Layer 6">
+      <g>
+        <g class="cls-62">
+          <path class="cls-67" d="m97.13,68.6c-1.84,0-3.23-.63-4.17-1.9-.94-1.27-1.41-3.16-1.41-5.67v-10.3h2.29v9.89c0,3.97,1.36,5.96,4.07,5.96.67,0,1.33-.11,1.99-.34.65-.22,1.25-.55,1.8-.98.55-.43,1.04-.93,1.48-1.51.44-.58.79-1.25,1.06-1.99v-11.04h2.29v14.57c0,.63.28.94.84.94v2.02c-.45.07-.76.1-.94.1-.52,0-.96-.16-1.33-.47-.37-.31-.56-.71-.56-1.18v-2.42c-.79,1.37-1.83,2.43-3.13,3.18-1.3.75-2.73,1.13-4.27,1.13Z"/>
+          <path class="cls-70" d="m118.43,47.07v-3.37h2.29v3.37h-2.29Zm0,21.2v-17.53h2.29v17.53h-2.29Z"/>
+          <path class="cls-68" d="m131.22,59.45c0-1.23.21-2.4.64-3.5.43-1.1,1.03-2.06,1.8-2.88.77-.82,1.7-1.46,2.78-1.94,1.08-.47,2.27-.71,3.57-.71,1.66,0,3.11.38,4.34,1.13,1.23.75,2.16,1.77,2.79,3.05l-2.22.71c-.49-.9-1.18-1.6-2.05-2.1-.87-.5-1.85-.76-2.93-.76-.9,0-1.73.18-2.51.54s-1.45.85-2.02,1.46c-.57.62-1.02,1.35-1.35,2.2-.33.85-.49,1.78-.49,2.79s.17,1.92.51,2.79c.34.87.8,1.63,1.38,2.27.58.64,1.26,1.14,2.04,1.51.77.37,1.6.56,2.47.56.56,0,1.12-.08,1.67-.24.55-.16,1.06-.38,1.53-.66.47-.28.88-.6,1.21-.96.34-.36.57-.74.71-1.14l2.22.67c-.25.63-.61,1.21-1.08,1.73-.47.53-1.03.99-1.67,1.38-.64.39-1.35.7-2.12.91-.77.21-1.58.32-2.41.32-1.28,0-2.46-.24-3.53-.72-1.08-.48-2.01-1.14-2.79-1.99-.79-.84-1.4-1.81-1.83-2.91-.44-1.1-.66-2.28-.66-3.53Z"/>
+          <path class="cls-66" d="m170.12,68.27l-6.46-8.98-3.77,3.5v5.49h-2.29v-24.57h2.29v16.69l9.86-9.62h2.59l-7.17,7.17,7.44,10.33h-2.49Z"/>
+          <path class="cls-69" d="m184.96,48.75v19.52h-2.32v-23.89h1.82l15.82,19.89v-19.85h2.32v23.86h-2.02l-15.61-19.52Z"/>
+        </g>
+        <g>
+          <path class="cls-16" d="m17.61,88.32c.23,0,.43-.18.43-.41s-.18-.43-.41-.43-.43.18-.43.41.18.43.41.43Z"/>
+          <g>
+            <path class="cls-38" d="m5.48,52.62c2.66,18.34,18.93,31.94,37.45,31.28,7.01-.25,13.43-2.43,18.82-5.97-3.97,1.74-8.35,2.75-13.01,2.86-16.68.37-31.36-11.65-34.29-28.07-3.52-19.71,10.41-37.93,29.98-40.02,3.57-.38,7.07-.19,10.41.48-5.25-2.03-11.05-2.88-17.03-2.24C17.24,13.13,2.48,31.96,5.48,52.62Z"/>
+            <g class="cls-89">
+              <path class="cls-37" d="m74.9,33.8c1.21-.89,1.61-2.59.95-3.94-.05-.11-.11-.21-.17-.3l-.05-.08-.31-.47c-.81-1.25-2.38-1.87-3.77-1.34-1.9.71-2.59,2.87-1.66,4.51l.11.2.27.47c.93,1.63,3.08,2.12,4.64.97Zm-41.59,39.21s-.05-.03-.07-.04l-.57-.27-.08-.04c-.45-.22-1-.03-1.22.43-.21.43-.04.94.36,1.18l.58.34.05.03c.45.26,1.03.11,1.29-.34.26-.45.11-1.03-.34-1.29Zm35.77-47.43c.42-.55.6-1.25.55-1.94-.07-.98-.51-1.65-1.06-2.08l-.11-.09-.43-.34c-1.08-.85-2.65-.92-3.7-.03-1.37,1.17-1.33,3.18-.1,4.31l.19.17.41.37c1.24,1.13,3.2.97,4.24-.39ZM18.44,57.65c-.19.08-.28.3-.21.5l.24.62c.08.2.31.31.51.23.2-.08.31-.31.23-.51,0,0,0,0,0-.01l-.26-.6v-.02c-.09-.2-.32-.29-.52-.2ZM60.9,19.06c.16-.89-.21-1.82-.93-2.37-.23-.17-.47-.3-.72-.39l-.16-.05-.53-.18c-1.11-.38-2.39,0-2.99,1-.79,1.32-.22,2.92,1.07,3.51l.25.11.52.23c1.44.65,3.18-.19,3.48-1.87Zm-17.93,56.56s-.09-.02-.14-.02l-.61-.06h-.1c-.57-.06-1.15.21-1.39.73-.39.86.13,1.74.95,1.91l.66.13h.04c.59.13,1.23-.11,1.52-.64.48-.88-.04-1.87-.93-2.05Zm-18.48-9.06c-.22-.23-.59-.24-.82-.03-.23.21-.24.57-.04.8l.44.51h0c.21.26.59.29.84.07.25-.21.28-.59.07-.84,0,0-.01-.01-.02-.02l-.44-.47-.02-.03Zm26.22-50.43c-.11-.86-.81-1.57-1.67-1.71-.11-.02-.22-.03-.33-.03h-.16s-.59,0-.59,0c-.94,0-1.81.62-2,1.54-.25,1.2.59,2.26,1.71,2.38l.25.02.59.06c1.26.13,2.36-.93,2.2-2.27Zm-33.64,22.61s0,0,0,.01l-.16.65c-.05.23.09.46.31.51.22.05.45-.08.51-.3v-.02s.18-.63.18-.63c.06-.23-.07-.47-.31-.53-.23-.06-.47.07-.53.31Zm21.27-19.67l.53-.12c.68-.16,1.23-.75,1.23-1.45,0-1.02-.93-1.71-1.85-1.49-.05.01-.1.03-.15.04l-.11.04-.58.2c-.63.22-1.09.82-1.04,1.48.07.96.95,1.55,1.8,1.35l.17-.04Zm-21.66,31.26c.18-.02.31-.18.3-.36h0s-.06-.66-.06-.66h0c-.02-.19-.18-.33-.36-.31-.18.02-.32.18-.3.36,0,0,0,0,0,0l.07.66c.02.18.18.31.36.3Zm11.37-28.78c-.44.35-.51.99-.16,1.42.33.42.92.5,1.35.22l.09-.06.49-.32c.38-.25.6-.72.47-1.16-.21-.73-1.02-.99-1.59-.61-.02.02-.05.03-.07.05l-.05.04-.52.42Zm-5.74,7.23c-.3-.22-.71-.15-.93.14,0,.01-.02.02-.02.03v.02s-.37.56-.37.56c-.19.3-.1.7.2.89.29.18.66.11.86-.16l.03-.04.38-.52c.22-.3.15-.71-.14-.93Zm58.08,21.32l.05-.55c.16-1.56-.75-3.1-2.25-3.56-2.05-.63-4.04.78-4.24,2.79,0,0,0,.02,0,.03v.06s-.05.54-.05.54v.05c-.12,1.4.63,2.78,1.93,3.32,2.17.89,4.35-.56,4.56-2.67Zm-28.5,24.83l-.13.03c-.85.21-1.51.96-1.48,1.84.03,1.15,1.04,1.93,2.09,1.79l.66-.09h.05c.91-.13,1.68-.86,1.72-1.79.05-1.21-.99-2.12-2.13-1.96-.06,0-.13.02-.19.04l-.58.14Zm26.69-32.16c1.05-.74,1.49-2.09,1.19-3.35v-.05s-.14-.54-.14-.54c-.37-1.53-1.73-2.68-3.3-2.63-2.14.08-3.56,2.05-3.11,4.01l.02.09.12.52v.04c.51,2.2,3.12,3.38,5.23,1.89ZM5.62,52.62c2.66,18.34,18.93,31.94,37.45,31.28,7.01-.25,13.43-2.43,18.82-5.97-3.97,1.74-8.35,2.75-13.01,2.86-16.68.37-31.36-11.65-34.29-28.07-3.52-19.71,10.41-37.93,29.98-40.02,3.57-.38,7.07-.19,10.41.48-5.25-2.03-11.05-2.88-17.03-2.24C17.38,13.13,2.63,31.96,5.62,52.62Z"/>
+            </g>
+            <g class="cls-85">
+              <g class="cls-84">
+                <g class="cls-87">
+                  <path class="cls-19" d="m40.7,3.04l-10.66,5.57-19.44,30.09h0s0,.01,0,.01L-.59,65.18l-4.4-16.92,15.54-9.59-.05-18.26,19.49-11.84-2.59-13.56h.06s2.59,13.53,2.59,13.53l10.63-5.55.03.06ZM10.61,38.58L29.92,8.68l-19.36,11.76.05,18.14Zm-15.53,9.71L-.58,64.98l11.09-26.22-15.43,9.52Z"/>
+                  <path class="cls-19" d="m17.1,40.12h-.02S-7.64,60.7-7.64,60.7l.02-.09,4.4-20.62h.01s17.09-9.36,17.09-9.36l-3.38-10.18h0s0-.01,0-.01v-.03s.02-.03.02-.03l11.32-31.74.58,19.52,10.58-10.87.05.04-10.62,10.91.52,17.5h-.02s-8.96,4.91-8.96,4.91l3.14,9.46ZM-7.54,60.53l24.57-20.43-3.12-9.41L-3.16,40.03l-4.37,20.51ZM13.94,30.6l8.94-4.89-.52-17.4-11.78,12.1v.03s3.36,10.16,3.36,10.16Zm-3.31-10.33l11.73-12.05-.57-19.24-11.16,31.29Z"/>
+                  <polygon class="cls-19" points="10.58 38.72 -3.27 40.05 -3.21 39.99 22.51 13.11 22.56 13.15 -3.11 39.97 10.58 38.65 10.58 38.72"/>
+                </g>
+              </g>
+            </g>
+            <g class="cls-78">
+              <g class="cls-87">
+                <path class="cls-19" d="m79.66,11.18l-11.49-3.53-34.98,7.73h0s0,0,0,0L6.61,26.33l8.77-15.13,17.79,4.11,12.81-13.02,22.18,5.29,7.69-11.47.05.04-7.68,11.45,11.46,3.52-.02.06Zm-46.39,4.11l34.75-7.68-22.03-5.25-12.72,12.93Zm-17.87-4.01l-8.65,14.92,26.32-10.85-17.66-4.08Z"/>
+                <path class="cls-19" d="m36.81,20.96h-.02s-32.04-2.76-32.04-2.76l.08-.05L22.45,6.57h.01s18.73,5.37,18.73,5.37l4.75-9.61h0s0-.01,0-.01v-.03s.06,0,.06,0l30.36-14.61L63.06,1.96l15.16-.29v.06s-15.22.29-15.22.29l-11.93,12.81h-.02s-9.82-2.82-9.82-2.82l-4.42,8.94Zm-31.87-2.81l31.83,2.74,4.39-8.89-18.7-5.36L4.94,18.15Zm36.32-6.18l9.79,2.81,11.87-12.74-16.89.32h-.03s-4.74,9.61-4.74,9.61Zm4.91-9.67l16.81-.32,13.12-14.08L46.16,2.29Z"/>
+                <polygon class="cls-19" points="33.16 15.37 22.37 6.57 22.46 6.57 59.65 5.55 59.65 5.61 22.55 6.63 33.2 15.32 33.16 15.37"/>
+              </g>
+            </g>
+            <g class="cls-85">
+              <g class="cls-71">
+                <g class="cls-87">
+                  <path class="cls-19" d="m3.03,35.28l1.58,11.92,21.59,28.58h0s0,.01,0,.01l21.03,19.6-17.41-1.67-3.68-17.88-17.17-6.22-4.43-22.37-13.63-2.22v-.06s13.62,2.21,13.62,2.21l-1.57-11.89h.06Zm23.06,40.46L4.63,47.34l4.4,22.22,17.06,6.18Zm3.79,17.91l17.17,1.65-20.82-19.41,3.65,17.76Z"/>
+                  <path class="cls-19" d="m29.77,70.17v.02s10.84,30.28,10.84,30.28l-.08-.05-17.86-11.21h0s-2.92-19.28-2.92-19.28l-10.72-.32h0s0,0,0,0h-.03s-.02-.04-.02-.04l-25.93-21.52L1.57,54.21l-6.58-13.66.06-.03,6.61,13.72,16.62,5.51v.02s1.53,10.1,1.53,10.1l9.97.29Zm10.72,30.15l-10.77-30.08-9.91-.29,2.91,19.24,17.76,11.14Zm-20.75-30.44l-1.53-10.07L1.69,54.32l7.33,15.22.02.02,10.7.32Zm-10.84-.43l-7.29-15.15-18.27-6.06,25.56,21.21Z"/>
+                  <polygon class="cls-19" points="26.21 75.81 22.71 89.28 22.67 89.21 6.25 55.82 6.31 55.79 22.69 89.1 26.15 75.8 26.21 75.81"/>
+                </g>
+                <g class="cls-87">
+                  <path class="cls-19" d="m43.21,46.11l-1.82,11.89,12.73,33.48h0s0,.01,0,.01l14.7,24.7-16.24-6.48,1.47-18.2-14.75-10.77,2.01-22.72-12.46-5.94.03-.06,12.45,5.93,1.82-11.85h.06Zm10.82,45.3l-12.65-33.26-1.99,22.56,14.65,10.7Zm-1.37,18.26l16.02,6.39-14.56-24.46-1.46,18.07Z"/>
+                  <path class="cls-19" d="m59.12,87.08v.02s1.93,32.1,1.93,32.1l-.06-.07-14.02-15.76h0s2.59-19.32,2.59-19.32l-10.2-3.3h0s0,0,0,0h-.03s0-.05,0-.05l-18.88-27.91,16.07,11.09-2.49-14.96h.06s2.5,15.01,2.5,15.01l14.41,9.94v.02s-1.36,10.13-1.36,10.13l9.49,3.07Zm1.86,31.94l-1.92-31.89-9.43-3.05-2.58,19.28,13.93,15.67Zm-11.4-35.03l1.35-10.1-14.33-9.89,2.78,16.66.02.02,10.18,3.3Zm-10.28-3.45l-2.76-16.59-15.84-10.93,18.61,27.52Z"/>
+                  <polygon class="cls-19" points="54.13 91.51 46.99 103.46 46.98 103.38 40.56 66.73 40.62 66.72 47.03 103.28 54.07 91.48 54.13 91.51"/>
+                </g>
+              </g>
+            </g>
+            <circle class="cls-41" cx="14.91" cy="36.56" r=".57"/>
+            <circle class="cls-12" cx="21.29" cy="71.99" r=".63"/>
+            <circle class="cls-30" cx="12.68" cy="29.61" r=".57"/>
+            <circle class="cls-18" cx="13.51" cy="62.21" r=".63"/>
+            <circle class="cls-51" cx="9.18" cy="46.41" r=".57"/>
+            <circle class="cls-44" cx="14.54" cy="66.21" r=".63"/>
+            <ellipse class="cls-7" cx="9.81" cy="63.89" rx=".39" ry=".62" transform="translate(-22.41 7.86) rotate(-21.17)"/>
+            <circle class="cls-14" cx="13.25" cy="58.32" r=".57"/>
+            <circle class="cls-6" cx="13.35" cy="46.91" r=".57"/>
+            <circle class="cls-2" cx="30.78" cy="78.52" r=".57"/>
+            <circle class="cls-3" cx="28.99" cy="80.4" r=".57"/>
+            <circle class="cls-55" cx="36.59" cy="82.19" r=".57"/>
+            <circle class="cls-8" cx="13.92" cy="40.84" r=".57"/>
+            <circle class="cls-9" cx="15.29" cy="26.41" r=".57"/>
+            <circle class="cls-56" cx="46.71" cy="15.9" r=".57"/>
+            <circle class="cls-57" cx="49.63" cy="15.4" r=".57"/>
+            <circle class="cls-43" cx="56.46" cy="17.96" r=".57"/>
+            <circle class="cls-4" cx="58.39" cy="20.2" r=".57"/>
+            <circle class="cls-47" cx="59.38" cy="17.46" r=".57"/>
+            <circle class="cls-42" cx="9.18" cy="38.64" r=".57"/>
+            <circle class="cls-54" cx="33.57" cy="78.64" r=".57"/>
+            <path class="cls-16" d="m20.46,69.78c-.21.15-.27.44-.12.65s.44.27.65.12.27-.44.12-.65-.44-.27-.65-.12Z"/>
+            <path class="cls-16" d="m25.73,78.87c0,.23.19.42.42.42s.42-.19.42-.42-.19-.42-.42-.42-.42.19-.42.42Z"/>
+            <path class="cls-16" d="m9.04,36.62c0,.23.19.42.42.42s.42-.19.42-.42-.19-.42-.42-.42-.42.19-.42.42Z"/>
+            <path class="cls-16" d="m8.44,80.91c0,.23.19.42.42.42s.42-.19.42-.42-.19-.42-.42-.42-.42.19-.42.42Z"/>
+            <path class="cls-16" d="m22.22,75.84c-.21.15-.27.44-.12.65s.44.27.65.12.27-.44.12-.65-.44-.27-.65-.12Z"/>
+            <path class="cls-16" d="m31.12,80.64c0,.23.19.42.42.42s.42-.19.42-.42-.19-.42-.42-.42-.42.19-.42.42Z"/>
+            <path class="cls-16" d="m14.42,38.39c0,.23.19.42.42.42s.42-.19.42-.42-.19-.42-.42-.42-.42.19-.42.42Z"/>
+            <g class="cls-60">
+              <g class="cls-58">
+                <image width="317" height="309" transform="translate(7.05 -23.89) scale(.24)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT0AAAEyCAYAAACIzQdIAAAACXBIWXMAAC4jAAAuIwF4pT92AAAX3klEQVR4nGIYBaNgFIyCEQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA//8axaNgFIyCkQMYGBgAAAAA///s0sERACAQwsBg/zUbx981oC+2BEh6d72i3r4WMDsT2Ens8PUdcAAAAP//7NTBCYAwEEXBATHYf7cayAZhSxBPf26vgZfpxeeq6h3dgYELZ89vYeLG050Jxn+wAQAA///s1DEKgEAMRcEJCHY2gve/4DbaWKgRYb2Bdpkm6T+8il75VGY+sRsxYcbS/wEHVjRs2Hv83ntGxFWLlN/gBgAA//8aLfRGAdUAtDsLatmJMjAwqDAwMKhBaVFoQfgTWuA9ZmBgeAMt+D4yMDC8RioIf44WfqOAZoCBgQEAAAD//2IZDd1RQEUA6sJyMjAwSDMwMJgwMDCYMjAwKDMwMAggtfQ+Qwu4j1A2qMC7x8DAcB+pMPz0//9/WOE32u0dBdQDDAwMAAAAAP//Gi30RgG1AShN8UILPkUGBgY5BgYGHmiB+B/ajZVG6taCursa0ILvJgMDwx1oAfiSgYHh6/////+MFnyjgGqAgYEBAAAA//8aLfRGAbXBX2hh9gVK/4PO3jJDaVZoa/A/VE4EOu4nCy0kQQXfeQYGhksMDAyPoOb8GY2lUUAVwMDAAAAAAP//Gi30RgE1AagQ+87AwPCCgYHhGnQigxXasuOHjusxQzEMsEDHAUGtQyHo+B83tFAET3D8//9/tJs7CqgDGBgYAAAAAP//Gi30RgHVAKhg+v//P6jb+oqBgeEytGX3lYGBQR3azRWBdnXZkdbvMUELPtgSF3Zoa/EddIzvLWxyYzSmRgHFgIGBAQAAAP//Gi30RgG1wV9oQfcIWli9gY7RgQo+JWirjw/auoMVcmxIhSBsuQto8oMLrVU4CkYBZYCBgQEAAAD//xot9EYBVQG0tfcHOhb3GzpR8RQ6UaEILfhEod1ZfmgXmBfaDWaAdmlfQVt430ZbeKOAqoCBgQEAAAD//xpdpzcKaAaQdmawQws2YWiBxw/li0AnMIShLT8G6JggqJC8AMUg9vfRMb1RQBXAwMAAAAAA//8aLfRGAc0Blm1pbEiTF8LQ7iyspfcLuobvGbTF95WRkXF09nYUUAcwMDAAAAAA//8aLfRGAd0A2gEETEhjeqxIY3d/od3i70hb00ZbeaOAOoCBgQEAAAD//xot9EbBgAEcp7AwjB5CMApoBhgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//xrFo2AUjIKRAxgYGAAAAAD//wMA7oasADj9fVgAAAAASUVORK5CYII="/>
+              </g>
+              <path class="cls-17" d="m44.34,13.69c.43-.07-.01-1.06-.99-2.21-.97-1.15-2.11-2.02-2.54-1.94-.43.07.01,1.06.99,2.21.97,1.15,2.11,2.02,2.54,1.94Z"/>
+              <path class="cls-28" d="m44.63,15.52c2.29.39,4.42-.93,4.76-2.97.34-2.03-1.24-4-3.53-4.4-2.29-.39-4.42.93-4.76,2.97-.34,2.03,1.24,4,3.53,4.4Z"/>
+            </g>
+            <g class="cls-61">
+              <g class="cls-58">
+                <image width="332" height="316" transform="translate(11.13 46.19) scale(.24)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUwAAAE5CAYAAAD7gRktAAAACXBIWXMAAC4jAAAuIwF4pT92AAAbsklEQVR4nGIYBaNgFIyCUUAEYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBg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AAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//AwAOOsdgVe2nFgAAAABJRU5ErkJggg=="/>
+              </g>
+              <path class="cls-1" d="m49.33,85.02c.85-.15-.03-2.12-1.97-4.41-1.94-2.28-4.2-4.02-5.06-3.87-.85.15.03,2.12,1.97,4.41,1.94,2.28,4.2,4.02,5.06,3.87Z"/>
+              <path class="cls-27" d="m49.9,88.67c4.56.79,8.8-1.86,9.48-5.91.68-4.05-2.47-7.97-7.03-8.75-4.56-.79-8.8,1.86-9.48,5.91-.68,4.05,2.47,7.97,7.03,8.75Z"/>
+            </g>
+            <g class="cls-61">
+              <g class="cls-58">
+                <image width="333" height="316" transform="translate(1.05 -30.61) scale(.24)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAU0AAAE6CAYAAACS1wC9AAAACXBIWXMAAC4jAAAuIwF4pT92AAAbyUlEQVR4nGIYBaNgFIyCUUAkYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBg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YGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8axaNgFIyCUUAsYGBgAAAAAP//GsWjYBSMglFALGBgYAAAAAD//xrFo2AUjIJRQCxgYGAAAAAA//8DAFNA4Byl+X+zAAAAAElFTkSuQmCC"/>
+              </g>
+              <path class="cls-24" d="m39.48,8.28c.85-.15-.03-2.12-1.97-4.41C35.58,1.59,33.31-.14,32.46,0c-.85.15.03,2.12,1.97,4.41,1.94,2.28,4.2,4.02,5.06,3.87Z"/>
+              <path class="cls-48" d="m40.05,11.93c4.56.79,8.8-1.86,9.48-5.91.68-4.05-2.47-7.97-7.03-8.75-4.56-.79-8.8,1.86-9.48,5.91-.68,4.05,2.47,7.97,7.03,8.75Z"/>
+            </g>
+            <g class="cls-61">
+              <g class="cls-58">
+                <image width="333" height="316" transform="translate(27.93 -14.05) scale(.24)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUwAAAE4CAYAAAAw3cqIAAAACXBIWXMAAC4jAAAuIwF4pT92AAAbn0lEQVR4nGIYBaNgFIyCUUAEYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBg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AAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8axaNgFIyCUUAMYGBgAAAAAP//GsWjYBSMglFADGBgYAAAAAD//xrFo2AUjIJRQAxgYGAAAAAA//8DABHn3ZqyhfgHAAAAAElFTkSuQmCC"/>
+              </g>
+              <path class="cls-35" d="m66.27,24.9c.85-.15-.03-2.12-1.97-4.41-1.94-2.28-4.2-4.02-5.06-3.87-.85.15.03,2.12,1.97,4.41,1.94,2.28,4.2,4.02,5.06,3.87Z"/>
+              <path class="cls-26" d="m66.84,28.55c4.56.79,8.8-1.86,9.48-5.91.68-4.05-2.47-7.97-7.03-8.75-4.56-.79-8.8,1.86-9.48,5.91-.68,4.05,2.47,7.97,7.03,8.75Z"/>
+            </g>
+            <g>
+              <path class="cls-15" d="m67.1,64.69l-5.54-12.58s.02-.06.05-.04l17.57,15.43s.01.05-.01.06l-6.51,1.56s-.03.03-.02.05l6.55,13.44s-.02.06-.05.04l-19.05-16.5s-.01-.05.01-.06l6.97-1.35s.03-.03.02-.04Z"/>
+              <path class="cls-5" d="m61.72,52.18l11.14,13.68s0,.05-.02.05l-6.02.95s-.04.03-.02.05l12.32,15.59s-.02.07-.05.04l-18.91-16.38s-.01-.05.01-.06l6.97-1.35s.03-.03.02-.04l-5.5-12.49s.03-.06.05-.03Z"/>
+              <g class="cls-88">
+                <g>
+                  <g>
+                    <path class="cls-33" d="m69.91,68.66s-.02.04,0,.06.04.02.06,0,.02-.04,0-.06-.04-.02-.06,0Z"/>
+                    <circle class="cls-33" cx="69.4" cy="68.72" r=".04"/>
+                    <path class="cls-33" d="m68.53,68.36s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m67.92,68.21s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <path class="cls-33" d="m68.31,69.23s-.03.01-.04,0-.01-.03,0-.04.03-.01.04,0,.01.03,0,.04Z"/>
+                    <path class="cls-33" d="m68.58,69.72s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <circle class="cls-33" cx="68.78" cy="70.29" r=".02"/>
+                    <path class="cls-33" d="m67.83,70.14s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <circle class="cls-33" cx="66.98" cy="70.59" r=".01"/>
+                    <circle class="cls-33" cx="65.65" cy="69.9" r=".03"/>
+                    <polygon class="cls-33" points="65.92 70.37 65.92 70.37 65.93 70.37 65.93 70.37 65.92 70.37"/>
+                    <polygon class="cls-33" points="65.87 70.91 65.87 70.92 65.88 70.92 65.88 70.91 65.87 70.91"/>
+                    <path class="cls-33" d="m65.15,70.49s0,.01,0,.01.01,0,.01,0,0-.01,0-.01-.01,0-.01,0Z"/>
+                    <path class="cls-33" d="m67,71.71s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <circle class="cls-33" cx="66.63" cy="71.47" r="0"/>
+                    <path class="cls-33" d="m66.58,69.92s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <circle class="cls-33" cx="67.6" cy="70.47" r="0"/>
+                    <polygon class="cls-33" points="67.79 70.86 67.79 70.88 67.81 70.88 67.81 70.86 67.79 70.86"/>
+                    <path class="cls-33" d="m67.54,71.33s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <polygon class="cls-33" points="67.16 69.49 67.16 69.5 67.17 69.5 67.17 69.49 67.16 69.49"/>
+                    <path class="cls-33" d="m66.78,69.32s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <polygon class="cls-33" points="66.33 68.91 66.33 68.93 66.34 68.93 66.34 68.91 66.33 68.91"/>
+                    <path class="cls-33" d="m65.05,66.06s-.04.01-.05,0-.01-.04,0-.05.04-.01.05,0,.01.04,0,.05Z"/>
+                    <circle class="cls-33" cx="65.21" cy="66.51" r=".01"/>
+                    <polygon class="cls-33" points="64.08 66.37 64.08 66.38 64.09 66.38 64.09 66.37 64.08 66.37"/>
+                    <circle class="cls-33" cx="63.44" cy="66.81" r=".04"/>
+                    <path class="cls-33" d="m62.87,65.9s-.02.05,0,.06.05.02.06,0,.02-.05,0-.06-.05-.02-.06,0Z"/>
+                    <circle class="cls-33" cx="63.07" cy="66.82" r=".01"/>
+                    <path class="cls-33" d="m62.88,67.26s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <path class="cls-33" d="m65.68,68.2s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <path class="cls-33" d="m65.01,68.06s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m64.11,68.46s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <polygon class="cls-33" points="62.17 68.2 62.16 68.2 62.16 68.19 62.17 68.19 62.17 68.2"/>
+                    <circle class="cls-33" cx="66.28" cy="65.05" r=".01"/>
+                    <path class="cls-33" d="m65.86,65.43s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <path class="cls-33" d="m64.74,63.96s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <polygon class="cls-33" points="65.01 64.84 65.01 64.85 65.02 64.85 65.02 64.84 65.01 64.84"/>
+                    <path class="cls-33" d="m66.84,66.71s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <path class="cls-33" d="m67.78,64.4s-.02,0-.02,0,0-.02,0-.02.02,0,.02,0,0,.02,0,.02Z"/>
+                    <polygon class="cls-33" points="68.27 65.24 68.27 65.25 68.29 65.25 68.29 65.24 68.27 65.24"/>
+                    <path class="cls-33" d="m69.52,71.18s-.02,0-.03,0,0-.02,0-.03.02,0,.03,0,0,.02,0,.03Z"/>
+                    <path class="cls-33" d="m69.37,71.62s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <circle class="cls-33" cx="68.85" cy="71.28" r=".01"/>
+                    <polygon class="cls-33" points="69.04 70.55 69.04 70.57 69.05 70.57 69.05 70.55 69.04 70.55"/>
+                    <path class="cls-33" d="m68.26,70.9s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m68.11,69.95s.02,0,.03,0,0,.02,0,.03-.02,0-.03,0,0-.02,0-.03Z"/>
+                    <polygon class="cls-33" points="67.71 71.03 67.71 71.04 67.73 71.04 67.73 71.03 67.71 71.03"/>
+                    <path class="cls-33" d="m69.98,71.97s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <path class="cls-33" d="m70.29,71.61s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <path class="cls-33" d="m69.33,72.1s-.01.04,0,.05.04.01.05,0,.01-.04,0-.05-.04-.01-.05,0Z"/>
+                    <path class="cls-33" d="m68.69,72.54s-.02,0-.03,0,0-.02,0-.03.02,0,.03,0,0,.02,0,.03Z"/>
+                    <path class="cls-33" d="m67.93,72.12s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <path class="cls-33" d="m70.37,70.44s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <path class="cls-33" d="m69.71,69.91s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <path class="cls-33" d="m69.98,70.6s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <polygon class="cls-33" points="70.47 69.19 70.47 69.18 70.45 69.18 70.45 69.19 70.47 69.19"/>
+                    <path class="cls-33" d="m71.43,69.97s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <circle class="cls-33" cx="70.94" cy="69.97" r=".04"/>
+                    <path class="cls-33" d="m72.01,71.25s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <circle class="cls-33" cx="71.89" cy="69.7" r=".03"/>
+                    <path class="cls-33" d="m69.36,70.13s-.01.04,0,.05.04.01.05,0,.01-.04,0-.05-.04-.01-.05,0Z"/>
+                    <path class="cls-33" d="m69.41,69.58s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m68.82,69.85s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m69.2,70.93s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m68.81,70.79s-.03.01-.04,0-.01-.03,0-.04.03-.01.04,0,.01.03,0,.04Z"/>
+                    <circle class="cls-33" cx="69.99" cy="72.33" r=".02"/>
+                    <polygon class="cls-33" points="70.48 72.92 70.47 72.92 70.47 72.9 70.48 72.9 70.48 72.92"/>
+                    <path class="cls-33" d="m70.74,73.44s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m69.84,73.11s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m69.24,73.5s-.02.04,0,.06.04.02.06,0,.02-.04,0-.06-.04-.02-.06,0Z"/>
+                    <path class="cls-33" d="m69.8,74.47s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m70.71,75.91s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <path class="cls-33" d="m71.55,74.84s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <circle class="cls-33" cx="71.1" cy="74.55" r="0"/>
+                    <polygon class="cls-33" points="72.37 73.76 72.37 73.77 72.38 73.77 72.38 73.76 72.37 73.76"/>
+                    <path class="cls-33" d="m73.46,72.16s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <circle class="cls-33" cx="72.89" cy="71.58" r=".04"/>
+                    <path class="cls-33" d="m72.5,72.16s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <polygon class="cls-33" points="73.15 72.95 73.16 72.95 73.16 72.96 73.15 72.96 73.15 72.95"/>
+                    <path class="cls-33" d="m71.9,72.34s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <circle class="cls-33" cx="73.48" cy="74.45" r=".07"/>
+                    <path class="cls-33" d="m71.57,73.6s-.03.07,0,.1.07.03.1,0,.03-.07,0-.1-.07-.03-.1,0Z"/>
+                    <path class="cls-33" d="m72.12,74s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <path class="cls-33" d="m73.15,75.76s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m72.71,75.67s-.02.05,0,.06.05.02.06,0,.02-.05,0-.06-.05-.02-.06,0Z"/>
+                    <circle class="cls-33" cx="72.24" cy="75.18" r=".03"/>
+                    <path class="cls-33" d="m74.55,76.12s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <circle class="cls-33" cx="74.95" cy="75.19" r=".02"/>
+                    <path class="cls-33" d="m75.81,73.9s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m74.66,72.87s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <path class="cls-33" d="m75.29,75.93s-.02,0-.03,0,0-.02,0-.03.02,0,.03,0,0,.02,0,.03Z"/>
+                    <path class="cls-33" d="m76.87,74.57s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m77.08,72.03s-.01,0-.02,0,0-.01,0-.02.01,0,.02,0,0,.01,0,.02Z"/>
+                    <path class="cls-33" d="m75.52,70.8s-.02.04,0,.06.04.02.06,0,.02-.04,0-.06-.04-.02-.06,0Z"/>
+                    <path class="cls-33" d="m77.33,73.23s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m73.36,70.06s-.02.05,0,.07.05.02.07,0,.02-.05,0-.07-.05-.02-.07,0Z"/>
+                    <path class="cls-33" d="m74.03,72.52s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <path class="cls-33" d="m75.41,72.54s-.03.01-.05,0-.01-.03,0-.05.03-.01.05,0,.01.03,0,.05Z"/>
+                    <path class="cls-33" d="m71.38,77.93s-.01,0-.02,0,0-.01,0-.02.01,0,.02,0,0,.01,0,.02Z"/>
+                    <path class="cls-33" d="m71.93,79.27s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <circle class="cls-33" cx="70.69" cy="78.67" r=".02"/>
+                    <path class="cls-33" d="m62.82,70.76s-.04.02-.06,0-.02-.04,0-.06.04-.02.06,0,.02.04,0,.06Z"/>
+                    <circle class="cls-33" cx="62.76" cy="69.48" r=".05"/>
+                    <circle class="cls-33" cx="61.5" cy="69.59" r=".04"/>
+                    <path class="cls-33" d="m66.56,74.26s-.03.08,0,.11.08.03.11,0,.03-.08,0-.11-.08-.03-.11,0Z"/>
+                    <circle class="cls-33" cx="66.6" cy="72.95" r=".04"/>
+                    <path class="cls-33" d="m65.04,73.39s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <circle class="cls-33" cx="68.59" cy="76.42" r=".04"/>
+                    <path class="cls-33" d="m71.77,67.87s-.02,0-.03,0,0-.02,0-.03.02,0,.03,0,0,.02,0,.03Z"/>
+                    <path class="cls-33" d="m73.63,68.01s-.02.05,0,.06.05.02.06,0,.02-.05,0-.06-.05-.02-.06,0Z"/>
+                    <path class="cls-33" d="m72.39,66.17s-.02.04,0,.06.04.02.06,0,.02-.04,0-.06-.04-.02-.06,0Z"/>
+                    <circle class="cls-33" cx="70.37" cy="66.62" r=".05"/>
+                    <path class="cls-33" d="m68.21,66.31s-.01.04,0,.05.04.01.05,0,.01-.04,0-.05-.04-.01-.05,0Z"/>
+                    <path class="cls-33" d="m66.5,63.58s-.03.01-.04,0-.01-.03,0-.04.03-.01.04,0,.01.03,0,.04Z"/>
+                  </g>
+                  <path class="cls-16" d="m69.04,68.23c-.07.07-.07.19,0,.27s.19.07.27,0,.07-.19,0-.27-.19-.07-.27,0Z"/>
+                  <path class="cls-16" d="m68.25,67.19c-.07,0-.12.06-.12.13s.06.12.13.12c.07,0,.12-.06.12-.13,0-.07-.06-.12-.13-.12Z"/>
+                  <path class="cls-16" d="m64.13,66.21c-.07,0-.12.06-.12.13s.06.12.13.12c.07,0,.12-.06.12-.13,0-.07-.06-.12-.13-.12Z"/>
+                  <path class="cls-16" d="m63.62,69.62c-.07,0-.12.06-.12.13,0,.07.06.12.13.12s.12-.06.12-.13c0-.07-.06-.12-.13-.12Z"/>
+                  <path class="cls-16" d="m70.19,72.14c-.07,0-.12.06-.12.13,0,.07.06.12.13.12.07,0,.12-.06.12-.13,0-.07-.06-.12-.13-.12Z"/>
+                  <path class="cls-16" d="m73.74,72.64c-.07,0-.12.06-.12.13s.06.12.13.12.12-.06.12-.13c0-.07-.06-.12-.13-.12Z"/>
+                  <circle class="cls-16" cx="76.87" cy="74.5" r=".13"/>
+                </g>
+                <g>
+                  <g>
+                    <path class="cls-33" d="m65.7,55.09s-.02.04,0,.06.04.02.06,0,.02-.04,0-.06-.04-.02-.06,0Z"/>
+                    <circle class="cls-33" cx="65.19" cy="55.14" r=".04"/>
+                    <path class="cls-33" d="m64.32,54.79s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m63.71,54.63s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <path class="cls-33" d="m64.1,55.65s-.03.01-.04,0-.01-.03,0-.04.03-.01.04,0,.01.03,0,.04Z"/>
+                    <path class="cls-33" d="m64.37,56.14s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <circle class="cls-33" cx="64.57" cy="56.71" r=".02"/>
+                    <path class="cls-33" d="m63.62,56.57s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <circle class="cls-33" cx="62.77" cy="57.01" r=".01"/>
+                    <circle class="cls-33" cx="61.44" cy="56.32" r=".03"/>
+                    <polygon class="cls-33" points="61.71 56.79 61.71 56.8 61.72 56.8 61.72 56.79 61.71 56.79"/>
+                    <polygon class="cls-33" points="61.66 57.33 61.66 57.34 61.67 57.34 61.66 57.33 61.66 57.33"/>
+                    <path class="cls-33" d="m60.94,56.92s0,.01,0,.01.01,0,.01,0,0-.01,0-.01-.01,0-.01,0Z"/>
+                    <path class="cls-33" d="m62.79,58.13s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <circle class="cls-33" cx="62.42" cy="57.89" r="0"/>
+                    <path class="cls-33" d="m62.37,56.34s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <circle class="cls-33" cx="63.38" cy="56.89" r="0"/>
+                    <polygon class="cls-33" points="63.58 57.29 63.58 57.3 63.6 57.3 63.59 57.29 63.58 57.29"/>
+                    <path class="cls-33" d="m63.33,57.75s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <polygon class="cls-33" points="62.95 55.91 62.95 55.92 62.96 55.92 62.96 55.91 62.95 55.91"/>
+                    <path class="cls-33" d="m62.57,55.75s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <polygon class="cls-33" points="62.11 55.34 62.11 55.35 62.13 55.35 62.13 55.34 62.11 55.34"/>
+                    <path class="cls-33" d="m60.84,52.48s-.04.01-.05,0-.01-.04,0-.05.04-.01.05,0,.01.04,0,.05Z"/>
+                    <circle class="cls-33" cx="60.99" cy="52.94" r=".01"/>
+                    <polygon class="cls-33" points="59.87 52.79 59.87 52.8 59.88 52.8 59.88 52.79 59.87 52.79"/>
+                    <circle class="cls-33" cx="59.23" cy="53.23" r=".04"/>
+                    <path class="cls-33" d="m58.66,52.33s-.02.05,0,.06.05.02.06,0,.02-.05,0-.06-.05-.02-.06,0Z"/>
+                    <circle class="cls-33" cx="58.86" cy="53.24" r=".01"/>
+                    <path class="cls-33" d="m58.67,53.68s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <path class="cls-33" d="m61.46,54.62s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <path class="cls-33" d="m60.8,54.48s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m59.9,54.88s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <polygon class="cls-33" points="57.95 54.62 57.95 54.62 57.95 54.62 57.95 54.62 57.95 54.62"/>
+                    <circle class="cls-33" cx="62.07" cy="51.48" r=".01"/>
+                    <path class="cls-33" d="m61.65,51.85s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <path class="cls-33" d="m60.53,50.39s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <polygon class="cls-33" points="60.8 51.27 60.8 51.28 60.81 51.28 60.81 51.27 60.8 51.27"/>
+                    <path class="cls-33" d="m62.62,53.13s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <path class="cls-33" d="m63.57,50.82s-.02,0-.02,0,0-.02,0-.02.02,0,.02,0,0,.02,0,.02Z"/>
+                    <polygon class="cls-33" points="64.06 51.66 64.06 51.67 64.07 51.67 64.07 51.66 64.06 51.66"/>
+                    <path class="cls-33" d="m65.31,57.6s-.02,0-.03,0,0-.02,0-.03.02,0,.03,0,0,.02,0,.03Z"/>
+                    <path class="cls-33" d="m65.15,58.05s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <circle class="cls-33" cx="64.64" cy="57.7" r=".01"/>
+                    <polygon class="cls-33" points="64.83 56.98 64.83 56.99 64.84 56.99 64.84 56.98 64.83 56.98"/>
+                    <path class="cls-33" d="m64.05,57.32s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m63.9,56.37s.02,0,.03,0,0,.02,0,.03-.02,0-.03,0,0-.02,0-.03Z"/>
+                    <polygon class="cls-33" points="63.5 57.45 63.5 57.46 63.52 57.46 63.52 57.45 63.5 57.45"/>
+                    <path class="cls-33" d="m65.76,58.39s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <path class="cls-33" d="m66.08,58.03s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <path class="cls-33" d="m65.12,58.53s-.01.04,0,.05.04.01.05,0,.01-.04,0-.05-.04-.01-.05,0Z"/>
+                    <path class="cls-33" d="m64.48,58.96s-.02,0-.03,0,0-.02,0-.03.02,0,.03,0,0,.02,0,.03Z"/>
+                    <path class="cls-33" d="m63.72,58.54s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <path class="cls-33" d="m66.16,56.86s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <path class="cls-33" d="m65.5,56.34s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <path class="cls-33" d="m65.77,57.02s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <polygon class="cls-33" points="66.26 55.61 66.25 55.6 66.24 55.6 66.24 55.61 66.26 55.61"/>
+                    <path class="cls-33" d="m67.22,56.39s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <circle class="cls-33" cx="66.73" cy="56.4" r=".04"/>
+                    <path class="cls-33" d="m67.8,57.68s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <circle class="cls-33" cx="67.68" cy="56.13" r=".03"/>
+                    <path class="cls-33" d="m65.15,56.56s-.01.04,0,.05.04.01.05,0,.01-.04,0-.05-.04-.01-.05,0Z"/>
+                    <path class="cls-33" d="m65.2,56s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m64.61,56.27s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m64.99,57.36s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m64.6,57.22s-.03.01-.04,0-.01-.03,0-.04.03-.01.04,0,.01.03,0,.04Z"/>
+                    <circle class="cls-33" cx="65.78" cy="58.75" r=".02"/>
+                    <polygon class="cls-33" points="66.27 59.34 66.26 59.34 66.26 59.33 66.27 59.33 66.27 59.34"/>
+                    <path class="cls-33" d="m66.53,59.87s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m65.63,59.54s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m65.03,59.93s-.02.04,0,.06.04.02.06,0,.02-.04,0-.06-.04-.02-.06,0Z"/>
+                    <path class="cls-33" d="m65.59,60.89s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m66.5,62.33s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <path class="cls-33" d="m67.34,61.27s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <circle class="cls-33" cx="66.89" cy="60.97" r="0"/>
+                    <polygon class="cls-33" points="68.16 60.18 68.16 60.2 68.17 60.2 68.17 60.18 68.16 60.18"/>
+                    <path class="cls-33" d="m69.25,58.59s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <circle class="cls-33" cx="68.68" cy="58" r=".04"/>
+                    <path class="cls-33" d="m68.29,58.59s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <polygon class="cls-33" points="68.94 59.37 68.95 59.37 68.95 59.38 68.94 59.38 68.94 59.37"/>
+                    <path class="cls-33" d="m67.69,58.76s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <circle class="cls-33" cx="69.27" cy="60.88" r=".07"/>
+                    <path class="cls-33" d="m67.36,60.02s-.03.07,0,.1.07.03.1,0,.03-.07,0-.1-.07-.03-.1,0Z"/>
+                    <path class="cls-33" d="m67.91,60.43s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <path class="cls-33" d="m68.94,62.19s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m68.5,62.1s-.02.05,0,.06.05.02.06,0,.02-.05,0-.06-.05-.02-.06,0Z"/>
+                    <circle class="cls-33" cx="68.03" cy="61.6" r=".03"/>
+                    <path class="cls-33" d="m70.34,62.54s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <circle class="cls-33" cx="70.74" cy="61.62" r=".02"/>
+                    <path class="cls-33" d="m71.6,60.32s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m70.45,59.29s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <path class="cls-33" d="m71.08,62.35s-.02,0-.03,0,0-.02,0-.03.02,0,.03,0,0,.02,0,.03Z"/>
+                    <path class="cls-33" d="m72.65,60.99s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m72.87,58.46s-.01,0-.02,0,0-.01,0-.02.01,0,.02,0,0,.01,0,.02Z"/>
+                    <path class="cls-33" d="m71.31,57.23s-.02.04,0,.06.04.02.06,0,.02-.04,0-.06-.04-.02-.06,0Z"/>
+                    <path class="cls-33" d="m73.12,59.65s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m69.15,56.48s-.02.05,0,.07.05.02.07,0,.02-.05,0-.07-.05-.02-.07,0Z"/>
+                    <path class="cls-33" d="m69.82,58.94s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <path class="cls-33" d="m71.2,58.97s-.03.01-.05,0-.01-.03,0-.05.03-.01.05,0,.01.03,0,.05Z"/>
+                    <path class="cls-33" d="m67.17,64.36s-.01,0-.02,0,0-.01,0-.02.01,0,.02,0,0,.01,0,.02Z"/>
+                    <path class="cls-33" d="m67.71,65.7s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <circle class="cls-33" cx="66.48" cy="65.09" r=".02"/>
+                    <path class="cls-33" d="m58.61,57.18s-.04.02-.06,0-.02-.04,0-.06.04-.02.06,0,.02.04,0,.06Z"/>
+                    <circle class="cls-33" cx="58.55" cy="55.91" r=".05"/>
+                    <circle class="cls-33" cx="57.29" cy="56.01" r=".04"/>
+                    <path class="cls-33" d="m62.35,60.68s-.03.08,0,.11.08.03.11,0,.03-.08,0-.11-.08-.03-.11,0Z"/>
+                    <circle class="cls-33" cx="62.39" cy="59.37" r=".04"/>
+                    <path class="cls-33" d="m60.83,59.82s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <circle class="cls-33" cx="64.38" cy="62.84" r=".04"/>
+                    <path class="cls-33" d="m67.56,54.29s-.02,0-.03,0,0-.02,0-.03.02,0,.03,0,0,.02,0,.03Z"/>
+                    <path class="cls-33" d="m69.42,54.43s-.02.05,0,.06.05.02.06,0,.02-.05,0-.06-.05-.02-.06,0Z"/>
+                    <path class="cls-33" d="m68.18,52.6s-.02.04,0,.06.04.02.06,0,.02-.04,0-.06-.04-.02-.06,0Z"/>
+                    <circle class="cls-33" cx="66.16" cy="53.05" r=".05"/>
+                    <path class="cls-33" d="m64,52.73s-.01.04,0,.05.04.01.05,0,.01-.04,0-.05-.04-.01-.05,0Z"/>
+                    <path class="cls-33" d="m62.29,50s-.03.01-.04,0-.01-.03,0-.04.03-.01.04,0,.01.03,0,.04Z"/>
+                  </g>
+                  <path class="cls-16" d="m64.83,54.65c-.07.07-.07.19,0,.27s.19.07.27,0,.07-.19,0-.27-.19-.07-.27,0Z"/>
+                  <path class="cls-16" d="m64.04,53.61c-.07,0-.12.06-.12.13s.06.12.13.12c.07,0,.12-.06.12-.13,0-.07-.06-.12-.13-.12Z"/>
+                  <path class="cls-16" d="m59.92,52.63c-.07,0-.12.06-.12.13s.06.12.13.12c.07,0,.12-.06.12-.13,0-.07-.06-.12-.13-.12Z"/>
+                  <path class="cls-16" d="m59.41,56.04c-.07,0-.12.06-.12.13,0,.07.06.12.13.12s.12-.06.12-.13c0-.07-.06-.12-.13-.12Z"/>
+                  <path class="cls-16" d="m65.98,58.57c-.07,0-.12.06-.12.13,0,.07.06.12.13.12.07,0,.12-.06.12-.13,0-.07-.06-.12-.13-.12Z"/>
+                  <path class="cls-16" d="m69.53,59.06c-.07,0-.12.06-.12.13s.06.12.13.12.12-.06.12-.13c0-.07-.06-.12-.13-.12Z"/>
+                  <circle class="cls-16" cx="72.66" cy="60.92" r=".13"/>
+                </g>
+                <g>
+                  <g>
+                    <path class="cls-33" d="m80.45,66.15s-.02.04,0,.06.04.02.06,0,.02-.04,0-.06-.04-.02-.06,0Z"/>
+                    <circle class="cls-33" cx="79.94" cy="66.21" r=".04"/>
+                    <path class="cls-33" d="m79.07,65.85s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m78.47,65.7s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <path class="cls-33" d="m78.85,66.72s-.03.01-.04,0-.01-.03,0-.04.03-.01.04,0,.01.03,0,.04Z"/>
+                    <path class="cls-33" d="m79.12,67.21s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <circle class="cls-33" cx="79.32" cy="67.78" r=".02"/>
+                    <path class="cls-33" d="m78.37,67.63s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <circle class="cls-33" cx="77.52" cy="68.07" r=".01"/>
+                    <circle class="cls-33" cx="76.19" cy="67.39" r=".03"/>
+                    <polygon class="cls-33" points="76.46 67.86 76.46 67.86 76.47 67.86 76.47 67.86 76.46 67.86"/>
+                    <polygon class="cls-33" points="76.41 68.4 76.41 68.41 76.42 68.41 76.42 68.4 76.41 68.4"/>
+                    <path class="cls-33" d="m75.69,67.98s0,.01,0,.01.01,0,.01,0,0-.01,0-.01-.01,0-.01,0Z"/>
+                    <path class="cls-33" d="m77.54,69.2s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <circle class="cls-33" cx="77.17" cy="68.96" r="0"/>
+                    <path class="cls-33" d="m77.12,67.41s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <circle class="cls-33" cx="78.14" cy="67.96" r="0"/>
+                    <polygon class="cls-33" points="78.33 68.35 78.33 68.37 78.35 68.37 78.35 68.35 78.33 68.35"/>
+                    <path class="cls-33" d="m78.08,68.82s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <polygon class="cls-33" points="77.7 66.98 77.7 66.99 77.71 66.99 77.71 66.98 77.7 66.98"/>
+                    <path class="cls-33" d="m77.32,66.81s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <polygon class="cls-33" points="76.87 66.4 76.87 66.41 76.88 66.41 76.88 66.4 76.87 66.4"/>
+                    <path class="cls-33" d="m75.59,63.55s-.04.01-.05,0-.01-.04,0-.05.04-.01.05,0,.01.04,0,.05Z"/>
+                    <circle class="cls-33" cx="75.75" cy="64" r=".01"/>
+                    <polygon class="cls-33" points="74.62 63.86 74.62 63.87 74.63 63.87 74.63 63.85 74.62 63.86"/>
+                    <circle class="cls-33" cx="73.98" cy="64.3" r=".04"/>
+                    <path class="cls-33" d="m73.41,63.39s-.02.05,0,.06.05.02.06,0,.02-.05,0-.06-.05-.02-.06,0Z"/>
+                    <circle class="cls-33" cx="73.61" cy="64.31" r=".01"/>
+                    <path class="cls-33" d="m73.42,64.75s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <path class="cls-33" d="m76.22,65.69s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <path class="cls-33" d="m75.55,65.55s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m74.65,65.95s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <polygon class="cls-33" points="72.71 65.69 72.7 65.69 72.7 65.68 72.71 65.68 72.71 65.69"/>
+                    <circle class="cls-33" cx="76.82" cy="62.54" r=".01"/>
+                    <path class="cls-33" d="m76.4,62.92s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <path class="cls-33" d="m75.28,61.45s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <polygon class="cls-33" points="75.55 62.33 75.55 62.34 75.56 62.34 75.56 62.33 75.55 62.33"/>
+                    <path class="cls-33" d="m77.38,64.2s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <path class="cls-33" d="m78.32,61.89s-.02,0-.02,0,0-.02,0-.02.02,0,.02,0,0,.02,0,.02Z"/>
+                    <polygon class="cls-33" points="78.82 62.73 78.82 62.74 78.83 62.74 78.83 62.73 78.82 62.73"/>
+                    <path class="cls-33" d="m80.07,68.67s-.02,0-.03,0,0-.02,0-.03.02,0,.03,0,0,.02,0,.03Z"/>
+                    <path class="cls-33" d="m79.91,69.11s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <circle class="cls-33" cx="79.39" cy="68.77" r=".01"/>
+                    <polygon class="cls-33" points="79.58 68.04 79.58 68.05 79.59 68.05 79.59 68.04 79.58 68.04"/>
+                    <path class="cls-33" d="m78.8,68.39s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m78.65,67.44s.02,0,.03,0,0,.02,0,.03-.02,0-.03,0,0-.02,0-.03Z"/>
+                    <polygon class="cls-33" points="78.26 68.52 78.26 68.53 78.27 68.53 78.27 68.52 78.26 68.52"/>
+                    <path class="cls-33" d="m80.52,69.46s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <path class="cls-33" d="m80.83,69.1s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <path class="cls-33" d="m79.87,69.59s-.01.04,0,.05.04.01.05,0,.01-.04,0-.05-.04-.01-.05,0Z"/>
+                    <path class="cls-33" d="m79.23,70.03s-.02,0-.03,0,0-.02,0-.03.02,0,.03,0,0,.02,0,.03Z"/>
+                    <path class="cls-33" d="m78.47,69.61s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <path class="cls-33" d="m80.91,67.93s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <path class="cls-33" d="m80.25,67.4s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <path class="cls-33" d="m80.52,68.09s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <polygon class="cls-33" points="81.01 66.68 81.01 66.67 81 66.67 81 66.68 81.01 66.68"/>
+                    <path class="cls-33" d="m81.98,67.46s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <circle class="cls-33" cx="81.48" cy="67.46" r=".04"/>
+                    <path class="cls-33" d="m82.55,68.74s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <circle class="cls-33" cx="82.43" cy="67.19" r=".03"/>
+                    <path class="cls-33" d="m79.9,67.62s-.01.04,0,.05.04.01.05,0,.01-.04,0-.05-.04-.01-.05,0Z"/>
+                    <path class="cls-33" d="m79.95,67.07s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m79.36,67.33s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m79.74,68.42s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m79.35,68.28s-.03.01-.04,0-.01-.03,0-.04.03-.01.04,0,.01.03,0,.04Z"/>
+                    <circle class="cls-33" cx="80.53" cy="69.82" r=".02"/>
+                    <polygon class="cls-33" points="81.02 70.4 81.01 70.4 81.01 70.39 81.02 70.39 81.02 70.4"/>
+                    <path class="cls-33" d="m81.29,70.93s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m80.38,70.6s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m79.78,70.99s-.02.04,0,.06.04.02.06,0,.02-.04,0-.06-.04-.02-.06,0Z"/>
+                    <path class="cls-33" d="m80.34,71.96s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m81.25,73.4s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <path class="cls-33" d="m82.09,72.33s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <circle class="cls-33" cx="81.64" cy="72.04" r="0"/>
+                    <polygon class="cls-33" points="82.91 71.25 82.91 71.26 82.92 71.26 82.92 71.25 82.91 71.25"/>
+                    <path class="cls-33" d="m84,69.65s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <circle class="cls-33" cx="83.43" cy="69.07" r=".04"/>
+                    <path class="cls-33" d="m83.04,69.65s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <polygon class="cls-33" points="83.69 70.44 83.7 70.44 83.7 70.45 83.69 70.45 83.69 70.44"/>
+                    <path class="cls-33" d="m82.44,69.82s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <circle class="cls-33" cx="84.02" cy="71.94" r=".07"/>
+                    <path class="cls-33" d="m82.11,71.09s-.03.07,0,.1.07.03.1,0,.03-.07,0-.1-.07-.03-.1,0Z"/>
+                    <path class="cls-33" d="m82.66,71.49s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <path class="cls-33" d="m83.69,73.25s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m83.25,73.16s-.02.05,0,.06.05.02.06,0,.02-.05,0-.06-.05-.02-.06,0Z"/>
+                    <circle class="cls-33" cx="82.78" cy="72.66" r=".03"/>
+                    <path class="cls-33" d="m85.09,73.61s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <circle class="cls-33" cx="85.49" cy="72.68" r=".02"/>
+                    <path class="cls-33" d="m86.35,71.39s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m85.2,70.36s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <path class="cls-33" d="m85.84,73.42s-.02,0-.03,0,0-.02,0-.03.02,0,.03,0,0,.02,0,.03Z"/>
+                    <path class="cls-33" d="m87.41,72.06s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m87.63,69.52s-.01,0-.02,0,0-.01,0-.02.01,0,.02,0,0,.01,0,.02Z"/>
+                    <path class="cls-33" d="m86.06,68.29s-.02.04,0,.06.04.02.06,0,.02-.04,0-.06-.04-.02-.06,0Z"/>
+                    <path class="cls-33" d="m87.87,70.72s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m83.91,67.55s-.02.05,0,.07.05.02.07,0,.02-.05,0-.07-.05-.02-.07,0Z"/>
+                    <path class="cls-33" d="m84.57,70.01s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <path class="cls-33" d="m85.96,70.03s-.03.01-.05,0-.01-.03,0-.05.03-.01.05,0,.01.03,0,.05Z"/>
+                    <path class="cls-33" d="m81.92,75.42s-.01,0-.02,0,0-.01,0-.02.01,0,.02,0,0,.01,0,.02Z"/>
+                    <path class="cls-33" d="m82.47,76.76s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <circle class="cls-33" cx="81.23" cy="76.16" r=".02"/>
+                    <path class="cls-33" d="m73.36,68.25s-.04.02-.06,0-.02-.04,0-.06.04-.02.06,0,.02.04,0,.06Z"/>
+                    <circle class="cls-33" cx="73.3" cy="66.97" r=".05"/>
+                    <circle class="cls-33" cx="72.04" cy="67.08" r=".04"/>
+                    <path class="cls-33" d="m77.1,71.74s-.03.08,0,.11.08.03.11,0,.03-.08,0-.11-.08-.03-.11,0Z"/>
+                    <circle class="cls-33" cx="77.14" cy="70.43" r=".04"/>
+                    <path class="cls-33" d="m75.58,70.88s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <circle class="cls-33" cx="79.13" cy="73.91" r=".04"/>
+                    <path class="cls-33" d="m82.31,65.35s-.02,0-.03,0,0-.02,0-.03.02,0,.03,0,0,.02,0,.03Z"/>
+                    <path class="cls-33" d="m84.17,65.5s-.02.05,0,.06.05.02.06,0,.02-.05,0-.06-.05-.02-.06,0Z"/>
+                    <path class="cls-33" d="m82.93,63.66s-.02.04,0,.06.04.02.06,0,.02-.04,0-.06-.04-.02-.06,0Z"/>
+                    <circle class="cls-33" cx="80.91" cy="64.11" r=".05"/>
+                    <path class="cls-33" d="m78.75,63.8s-.01.04,0,.05.04.01.05,0,.01-.04,0-.05-.04-.01-.05,0Z"/>
+                    <path class="cls-33" d="m77.04,61.07s-.03.01-.04,0-.01-.03,0-.04.03-.01.04,0,.01.03,0,.04Z"/>
+                  </g>
+                  <path class="cls-16" d="m79.58,65.72c-.07.07-.07.19,0,.27s.19.07.27,0,.07-.19,0-.27-.19-.07-.27,0Z"/>
+                  <path class="cls-16" d="m78.79,64.68c-.07,0-.12.06-.12.13s.06.12.13.12c.07,0,.12-.06.12-.13,0-.07-.06-.12-.13-.12Z"/>
+                  <path class="cls-16" d="m74.67,63.7c-.07,0-.12.06-.12.13s.06.12.13.12c.07,0,.12-.06.12-.13,0-.07-.06-.12-.13-.12Z"/>
+                  <path class="cls-16" d="m74.16,67.11c-.07,0-.12.06-.12.13,0,.07.06.12.13.12s.12-.06.12-.13c0-.07-.06-.12-.13-.12Z"/>
+                  <path class="cls-16" d="m80.73,69.63c-.07,0-.12.06-.12.13,0,.07.06.12.13.12.07,0,.12-.06.12-.13,0-.07-.06-.12-.13-.12Z"/>
+                  <path class="cls-16" d="m84.28,70.13c-.07,0-.12.06-.12.13s.06.12.13.12.12-.06.12-.13c0-.07-.06-.12-.13-.12Z"/>
+                  <circle class="cls-16" cx="87.42" cy="71.99" r=".13"/>
+                </g>
+                <g class="cls-82">
+                  <ellipse class="cls-39" cx="77.2" cy="66.33" rx="7.98" ry="7.75"/>
+                  <g class="cls-93">
+                    <g class="cls-59">
+                      <ellipse class="cls-33" cx="77.2" cy="66.33" rx="7.98" ry="7.75"/>
+                    </g>
+                  </g>
+                </g>
+                <ellipse class="cls-25" cx="69.97" cy="68.57" rx="7.37" ry="7.16"/>
+              </g>
+              <path class="cls-53" d="m67.1,64.69l-5.54-12.58s.02-.06.05-.04l17.57,15.43s.01.05-.01.06l-6.51,1.56s-.03.03-.02.05l6.55,13.44s-.02.06-.05.04l-19.05-16.5s-.01-.05.01-.06l6.97-1.35s.03-.03.02-.04Z"/>
+              <path class="cls-5" d="m61.72,52.18l11.14,13.68s0,.05-.02.05l-6.02.95s-.04.03-.02.05l12.32,15.59s-.02.07-.05.04l-18.91-16.38s-.01-.05.01-.06l6.97-1.35s.03-.03.02-.04l-5.5-12.49s.03-.06.05-.03Z"/>
+              <g class="cls-79">
+                <g>
+                  <g>
+                    <path class="cls-33" d="m69.91,68.66s-.02.04,0,.06.04.02.06,0,.02-.04,0-.06-.04-.02-.06,0Z"/>
+                    <circle class="cls-33" cx="69.4" cy="68.72" r=".04"/>
+                    <path class="cls-33" d="m68.53,68.36s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m67.92,68.21s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <path class="cls-33" d="m68.31,69.23s-.03.01-.04,0-.01-.03,0-.04.03-.01.04,0,.01.03,0,.04Z"/>
+                    <path class="cls-33" d="m68.58,69.72s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <circle class="cls-33" cx="68.78" cy="70.29" r=".02"/>
+                    <path class="cls-33" d="m67.83,70.14s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <circle class="cls-33" cx="66.98" cy="70.59" r=".01"/>
+                    <circle class="cls-33" cx="65.65" cy="69.9" r=".03"/>
+                    <polygon class="cls-33" points="65.92 70.37 65.92 70.37 65.93 70.37 65.93 70.37 65.92 70.37"/>
+                    <polygon class="cls-33" points="65.87 70.91 65.87 70.92 65.88 70.92 65.88 70.91 65.87 70.91"/>
+                    <path class="cls-33" d="m65.15,70.49s0,.01,0,.01.01,0,.01,0,0-.01,0-.01-.01,0-.01,0Z"/>
+                    <path class="cls-33" d="m67,71.71s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <circle class="cls-33" cx="66.63" cy="71.47" r="0"/>
+                    <path class="cls-33" d="m66.58,69.92s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <circle class="cls-33" cx="67.6" cy="70.47" r="0"/>
+                    <polygon class="cls-33" points="67.79 70.86 67.79 70.88 67.81 70.88 67.81 70.86 67.79 70.86"/>
+                    <path class="cls-33" d="m67.54,71.33s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <polygon class="cls-33" points="67.16 69.49 67.16 69.5 67.17 69.5 67.17 69.49 67.16 69.49"/>
+                    <path class="cls-33" d="m66.78,69.32s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <polygon class="cls-33" points="66.33 68.91 66.33 68.93 66.34 68.93 66.34 68.91 66.33 68.91"/>
+                    <path class="cls-33" d="m65.05,66.06s-.04.01-.05,0-.01-.04,0-.05.04-.01.05,0,.01.04,0,.05Z"/>
+                    <circle class="cls-33" cx="65.21" cy="66.51" r=".01"/>
+                    <polygon class="cls-33" points="64.08 66.37 64.08 66.38 64.09 66.38 64.09 66.37 64.08 66.37"/>
+                    <circle class="cls-33" cx="63.44" cy="66.81" r=".04"/>
+                    <path class="cls-33" d="m62.87,65.9s-.02.05,0,.06.05.02.06,0,.02-.05,0-.06-.05-.02-.06,0Z"/>
+                    <circle class="cls-33" cx="63.07" cy="66.82" r=".01"/>
+                    <path class="cls-33" d="m62.88,67.26s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <path class="cls-33" d="m65.68,68.2s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <path class="cls-33" d="m65.01,68.06s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m64.11,68.46s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <polygon class="cls-33" points="62.17 68.2 62.16 68.2 62.16 68.19 62.17 68.19 62.17 68.2"/>
+                    <circle class="cls-33" cx="66.28" cy="65.05" r=".01"/>
+                    <path class="cls-33" d="m65.86,65.43s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <path class="cls-33" d="m64.74,63.96s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <polygon class="cls-33" points="65.01 64.84 65.01 64.85 65.02 64.85 65.02 64.84 65.01 64.84"/>
+                    <path class="cls-33" d="m66.84,66.71s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <path class="cls-33" d="m67.78,64.4s-.02,0-.02,0,0-.02,0-.02.02,0,.02,0,0,.02,0,.02Z"/>
+                    <polygon class="cls-33" points="68.27 65.24 68.27 65.25 68.29 65.25 68.29 65.24 68.27 65.24"/>
+                    <path class="cls-33" d="m69.52,71.18s-.02,0-.03,0,0-.02,0-.03.02,0,.03,0,0,.02,0,.03Z"/>
+                    <path class="cls-33" d="m69.37,71.62s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <circle class="cls-33" cx="68.85" cy="71.28" r=".01"/>
+                    <polygon class="cls-33" points="69.04 70.55 69.04 70.57 69.05 70.57 69.05 70.55 69.04 70.55"/>
+                    <path class="cls-33" d="m68.26,70.9s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m68.11,69.95s.02,0,.03,0,0,.02,0,.03-.02,0-.03,0,0-.02,0-.03Z"/>
+                    <polygon class="cls-33" points="67.71 71.03 67.71 71.04 67.73 71.04 67.73 71.03 67.71 71.03"/>
+                    <path class="cls-33" d="m69.98,71.97s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <path class="cls-33" d="m70.29,71.61s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <path class="cls-33" d="m69.33,72.1s-.01.04,0,.05.04.01.05,0,.01-.04,0-.05-.04-.01-.05,0Z"/>
+                    <path class="cls-33" d="m68.69,72.54s-.02,0-.03,0,0-.02,0-.03.02,0,.03,0,0,.02,0,.03Z"/>
+                    <path class="cls-33" d="m67.93,72.12s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <path class="cls-33" d="m70.37,70.44s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <path class="cls-33" d="m69.71,69.91s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <path class="cls-33" d="m69.98,70.6s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <polygon class="cls-33" points="70.47 69.19 70.47 69.18 70.45 69.18 70.45 69.19 70.47 69.19"/>
+                    <path class="cls-33" d="m71.43,69.97s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <circle class="cls-33" cx="70.94" cy="69.97" r=".04"/>
+                    <path class="cls-33" d="m72.01,71.25s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <circle class="cls-33" cx="71.89" cy="69.7" r=".03"/>
+                    <path class="cls-33" d="m69.36,70.13s-.01.04,0,.05.04.01.05,0,.01-.04,0-.05-.04-.01-.05,0Z"/>
+                    <path class="cls-33" d="m69.41,69.58s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m68.82,69.85s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m69.2,70.93s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m68.81,70.79s-.03.01-.04,0-.01-.03,0-.04.03-.01.04,0,.01.03,0,.04Z"/>
+                    <circle class="cls-33" cx="69.99" cy="72.33" r=".02"/>
+                    <polygon class="cls-33" points="70.48 72.92 70.47 72.92 70.47 72.9 70.48 72.9 70.48 72.92"/>
+                    <path class="cls-33" d="m70.74,73.44s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m69.84,73.11s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m69.24,73.5s-.02.04,0,.06.04.02.06,0,.02-.04,0-.06-.04-.02-.06,0Z"/>
+                    <path class="cls-33" d="m69.8,74.47s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m70.71,75.91s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <path class="cls-33" d="m71.55,74.84s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <circle class="cls-33" cx="71.1" cy="74.55" r="0"/>
+                    <polygon class="cls-33" points="72.37 73.76 72.37 73.77 72.38 73.77 72.38 73.76 72.37 73.76"/>
+                    <path class="cls-33" d="m73.46,72.16s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <circle class="cls-33" cx="72.89" cy="71.58" r=".04"/>
+                    <path class="cls-33" d="m72.5,72.16s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <polygon class="cls-33" points="73.15 72.95 73.16 72.95 73.16 72.96 73.15 72.96 73.15 72.95"/>
+                    <path class="cls-33" d="m71.9,72.34s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <circle class="cls-33" cx="73.48" cy="74.45" r=".07"/>
+                    <path class="cls-33" d="m71.57,73.6s-.03.07,0,.1.07.03.1,0,.03-.07,0-.1-.07-.03-.1,0Z"/>
+                    <path class="cls-33" d="m72.12,74s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <path class="cls-33" d="m73.15,75.76s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m72.71,75.67s-.02.05,0,.06.05.02.06,0,.02-.05,0-.06-.05-.02-.06,0Z"/>
+                    <circle class="cls-33" cx="72.24" cy="75.18" r=".03"/>
+                    <path class="cls-33" d="m74.55,76.12s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <circle class="cls-33" cx="74.95" cy="75.19" r=".02"/>
+                    <path class="cls-33" d="m75.81,73.9s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m74.66,72.87s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <path class="cls-33" d="m75.29,75.93s-.02,0-.03,0,0-.02,0-.03.02,0,.03,0,0,.02,0,.03Z"/>
+                    <path class="cls-33" d="m76.87,74.57s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m77.08,72.03s-.01,0-.02,0,0-.01,0-.02.01,0,.02,0,0,.01,0,.02Z"/>
+                    <path class="cls-33" d="m75.52,70.8s-.02.04,0,.06.04.02.06,0,.02-.04,0-.06-.04-.02-.06,0Z"/>
+                    <path class="cls-33" d="m77.33,73.23s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m73.36,70.06s-.02.05,0,.07.05.02.07,0,.02-.05,0-.07-.05-.02-.07,0Z"/>
+                    <path class="cls-33" d="m74.03,72.52s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <path class="cls-33" d="m75.41,72.54s-.03.01-.05,0-.01-.03,0-.05.03-.01.05,0,.01.03,0,.05Z"/>
+                    <path class="cls-33" d="m71.38,77.93s-.01,0-.02,0,0-.01,0-.02.01,0,.02,0,0,.01,0,.02Z"/>
+                    <path class="cls-33" d="m71.93,79.27s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <circle class="cls-33" cx="70.69" cy="78.67" r=".02"/>
+                    <path class="cls-33" d="m62.82,70.76s-.04.02-.06,0-.02-.04,0-.06.04-.02.06,0,.02.04,0,.06Z"/>
+                    <circle class="cls-33" cx="62.76" cy="69.48" r=".05"/>
+                    <circle class="cls-33" cx="61.5" cy="69.59" r=".04"/>
+                    <path class="cls-33" d="m66.56,74.26s-.03.08,0,.11.08.03.11,0,.03-.08,0-.11-.08-.03-.11,0Z"/>
+                    <circle class="cls-33" cx="66.6" cy="72.95" r=".04"/>
+                    <path class="cls-33" d="m65.04,73.39s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <circle class="cls-33" cx="68.59" cy="76.42" r=".04"/>
+                    <path class="cls-33" d="m71.77,67.87s-.02,0-.03,0,0-.02,0-.03.02,0,.03,0,0,.02,0,.03Z"/>
+                    <path class="cls-33" d="m73.63,68.01s-.02.05,0,.06.05.02.06,0,.02-.05,0-.06-.05-.02-.06,0Z"/>
+                    <path class="cls-33" d="m72.39,66.17s-.02.04,0,.06.04.02.06,0,.02-.04,0-.06-.04-.02-.06,0Z"/>
+                    <circle class="cls-33" cx="70.37" cy="66.62" r=".05"/>
+                    <path class="cls-33" d="m68.21,66.31s-.01.04,0,.05.04.01.05,0,.01-.04,0-.05-.04-.01-.05,0Z"/>
+                    <path class="cls-33" d="m66.5,63.58s-.03.01-.04,0-.01-.03,0-.04.03-.01.04,0,.01.03,0,.04Z"/>
+                  </g>
+                  <path class="cls-16" d="m69.04,68.23c-.07.07-.07.19,0,.27s.19.07.27,0,.07-.19,0-.27-.19-.07-.27,0Z"/>
+                  <path class="cls-16" d="m68.25,67.19c-.07,0-.12.06-.12.13s.06.12.13.12c.07,0,.12-.06.12-.13,0-.07-.06-.12-.13-.12Z"/>
+                  <path class="cls-16" d="m64.13,66.21c-.07,0-.12.06-.12.13s.06.12.13.12c.07,0,.12-.06.12-.13,0-.07-.06-.12-.13-.12Z"/>
+                  <path class="cls-16" d="m63.62,69.62c-.07,0-.12.06-.12.13,0,.07.06.12.13.12s.12-.06.12-.13c0-.07-.06-.12-.13-.12Z"/>
+                  <path class="cls-16" d="m70.19,72.14c-.07,0-.12.06-.12.13,0,.07.06.12.13.12.07,0,.12-.06.12-.13,0-.07-.06-.12-.13-.12Z"/>
+                  <path class="cls-16" d="m73.74,72.64c-.07,0-.12.06-.12.13s.06.12.13.12.12-.06.12-.13c0-.07-.06-.12-.13-.12Z"/>
+                  <circle class="cls-16" cx="76.87" cy="74.5" r=".13"/>
+                </g>
+                <g>
+                  <g>
+                    <path class="cls-33" d="m65.7,55.09s-.02.04,0,.06.04.02.06,0,.02-.04,0-.06-.04-.02-.06,0Z"/>
+                    <circle class="cls-33" cx="65.19" cy="55.14" r=".04"/>
+                    <path class="cls-33" d="m64.32,54.79s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m63.71,54.63s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <path class="cls-33" d="m64.1,55.65s-.03.01-.04,0-.01-.03,0-.04.03-.01.04,0,.01.03,0,.04Z"/>
+                    <path class="cls-33" d="m64.37,56.14s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <circle class="cls-33" cx="64.57" cy="56.71" r=".02"/>
+                    <path class="cls-33" d="m63.62,56.57s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <circle class="cls-33" cx="62.77" cy="57.01" r=".01"/>
+                    <circle class="cls-33" cx="61.44" cy="56.32" r=".03"/>
+                    <polygon class="cls-33" points="61.71 56.79 61.71 56.8 61.72 56.8 61.72 56.79 61.71 56.79"/>
+                    <polygon class="cls-33" points="61.66 57.33 61.66 57.34 61.67 57.34 61.66 57.33 61.66 57.33"/>
+                    <path class="cls-33" d="m60.94,56.92s0,.01,0,.01.01,0,.01,0,0-.01,0-.01-.01,0-.01,0Z"/>
+                    <path class="cls-33" d="m62.79,58.13s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <circle class="cls-33" cx="62.42" cy="57.89" r="0"/>
+                    <path class="cls-33" d="m62.37,56.34s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <circle class="cls-33" cx="63.38" cy="56.89" r="0"/>
+                    <polygon class="cls-33" points="63.58 57.29 63.58 57.3 63.6 57.3 63.59 57.29 63.58 57.29"/>
+                    <path class="cls-33" d="m63.33,57.75s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <polygon class="cls-33" points="62.95 55.91 62.95 55.92 62.96 55.92 62.96 55.91 62.95 55.91"/>
+                    <path class="cls-33" d="m62.57,55.75s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <polygon class="cls-33" points="62.11 55.34 62.11 55.35 62.13 55.35 62.13 55.34 62.11 55.34"/>
+                    <path class="cls-33" d="m60.84,52.48s-.04.01-.05,0-.01-.04,0-.05.04-.01.05,0,.01.04,0,.05Z"/>
+                    <circle class="cls-33" cx="60.99" cy="52.94" r=".01"/>
+                    <polygon class="cls-33" points="59.87 52.79 59.87 52.8 59.88 52.8 59.88 52.79 59.87 52.79"/>
+                    <circle class="cls-33" cx="59.23" cy="53.23" r=".04"/>
+                    <path class="cls-33" d="m58.66,52.33s-.02.05,0,.06.05.02.06,0,.02-.05,0-.06-.05-.02-.06,0Z"/>
+                    <circle class="cls-33" cx="58.86" cy="53.24" r=".01"/>
+                    <path class="cls-33" d="m58.67,53.68s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <path class="cls-33" d="m61.46,54.62s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <path class="cls-33" d="m60.8,54.48s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m59.9,54.88s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <polygon class="cls-33" points="57.95 54.62 57.95 54.62 57.95 54.62 57.95 54.62 57.95 54.62"/>
+                    <circle class="cls-33" cx="62.07" cy="51.48" r=".01"/>
+                    <path class="cls-33" d="m61.65,51.85s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <path class="cls-33" d="m60.53,50.39s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <polygon class="cls-33" points="60.8 51.27 60.8 51.28 60.81 51.28 60.81 51.27 60.8 51.27"/>
+                    <path class="cls-33" d="m62.62,53.13s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <path class="cls-33" d="m63.57,50.82s-.02,0-.02,0,0-.02,0-.02.02,0,.02,0,0,.02,0,.02Z"/>
+                    <polygon class="cls-33" points="64.06 51.66 64.06 51.67 64.07 51.67 64.07 51.66 64.06 51.66"/>
+                    <path class="cls-33" d="m65.31,57.6s-.02,0-.03,0,0-.02,0-.03.02,0,.03,0,0,.02,0,.03Z"/>
+                    <path class="cls-33" d="m65.15,58.05s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <circle class="cls-33" cx="64.64" cy="57.7" r=".01"/>
+                    <polygon class="cls-33" points="64.83 56.98 64.83 56.99 64.84 56.99 64.84 56.98 64.83 56.98"/>
+                    <path class="cls-33" d="m64.05,57.32s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m63.9,56.37s.02,0,.03,0,0,.02,0,.03-.02,0-.03,0,0-.02,0-.03Z"/>
+                    <polygon class="cls-33" points="63.5 57.45 63.5 57.46 63.52 57.46 63.52 57.45 63.5 57.45"/>
+                    <path class="cls-33" d="m65.76,58.39s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <path class="cls-33" d="m66.08,58.03s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <path class="cls-33" d="m65.12,58.53s-.01.04,0,.05.04.01.05,0,.01-.04,0-.05-.04-.01-.05,0Z"/>
+                    <path class="cls-33" d="m64.48,58.96s-.02,0-.03,0,0-.02,0-.03.02,0,.03,0,0,.02,0,.03Z"/>
+                    <path class="cls-33" d="m63.72,58.54s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <path class="cls-33" d="m66.16,56.86s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <path class="cls-33" d="m65.5,56.34s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <path class="cls-33" d="m65.77,57.02s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <polygon class="cls-33" points="66.26 55.61 66.25 55.6 66.24 55.6 66.24 55.61 66.26 55.61"/>
+                    <path class="cls-33" d="m67.22,56.39s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <circle class="cls-33" cx="66.73" cy="56.4" r=".04"/>
+                    <path class="cls-33" d="m67.8,57.68s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <circle class="cls-33" cx="67.68" cy="56.13" r=".03"/>
+                    <path class="cls-33" d="m65.15,56.56s-.01.04,0,.05.04.01.05,0,.01-.04,0-.05-.04-.01-.05,0Z"/>
+                    <path class="cls-33" d="m65.2,56s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m64.61,56.27s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m64.99,57.36s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m64.6,57.22s-.03.01-.04,0-.01-.03,0-.04.03-.01.04,0,.01.03,0,.04Z"/>
+                    <circle class="cls-33" cx="65.78" cy="58.75" r=".02"/>
+                    <polygon class="cls-33" points="66.27 59.34 66.26 59.34 66.26 59.33 66.27 59.33 66.27 59.34"/>
+                    <path class="cls-33" d="m66.53,59.87s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m65.63,59.54s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m65.03,59.93s-.02.04,0,.06.04.02.06,0,.02-.04,0-.06-.04-.02-.06,0Z"/>
+                    <path class="cls-33" d="m65.59,60.89s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m66.5,62.33s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <path class="cls-33" d="m67.34,61.27s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <circle class="cls-33" cx="66.89" cy="60.97" r="0"/>
+                    <polygon class="cls-33" points="68.16 60.18 68.16 60.2 68.17 60.2 68.17 60.18 68.16 60.18"/>
+                    <path class="cls-33" d="m69.25,58.59s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <circle class="cls-33" cx="68.68" cy="58" r=".04"/>
+                    <path class="cls-33" d="m68.29,58.59s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <polygon class="cls-33" points="68.94 59.37 68.95 59.37 68.95 59.38 68.94 59.38 68.94 59.37"/>
+                    <path class="cls-33" d="m67.69,58.76s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <circle class="cls-33" cx="69.27" cy="60.88" r=".07"/>
+                    <path class="cls-33" d="m67.36,60.02s-.03.07,0,.1.07.03.1,0,.03-.07,0-.1-.07-.03-.1,0Z"/>
+                    <path class="cls-33" d="m67.91,60.43s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <path class="cls-33" d="m68.94,62.19s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m68.5,62.1s-.02.05,0,.06.05.02.06,0,.02-.05,0-.06-.05-.02-.06,0Z"/>
+                    <circle class="cls-33" cx="68.03" cy="61.6" r=".03"/>
+                    <path class="cls-33" d="m70.34,62.54s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <circle class="cls-33" cx="70.74" cy="61.62" r=".02"/>
+                    <path class="cls-33" d="m71.6,60.32s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m70.45,59.29s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <path class="cls-33" d="m71.08,62.35s-.02,0-.03,0,0-.02,0-.03.02,0,.03,0,0,.02,0,.03Z"/>
+                    <path class="cls-33" d="m72.65,60.99s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m72.87,58.46s-.01,0-.02,0,0-.01,0-.02.01,0,.02,0,0,.01,0,.02Z"/>
+                    <path class="cls-33" d="m71.31,57.23s-.02.04,0,.06.04.02.06,0,.02-.04,0-.06-.04-.02-.06,0Z"/>
+                    <path class="cls-33" d="m73.12,59.65s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m69.15,56.48s-.02.05,0,.07.05.02.07,0,.02-.05,0-.07-.05-.02-.07,0Z"/>
+                    <path class="cls-33" d="m69.82,58.94s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <path class="cls-33" d="m71.2,58.97s-.03.01-.05,0-.01-.03,0-.05.03-.01.05,0,.01.03,0,.05Z"/>
+                    <path class="cls-33" d="m67.17,64.36s-.01,0-.02,0,0-.01,0-.02.01,0,.02,0,0,.01,0,.02Z"/>
+                    <path class="cls-33" d="m67.71,65.7s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <circle class="cls-33" cx="66.48" cy="65.09" r=".02"/>
+                    <path class="cls-33" d="m58.61,57.18s-.04.02-.06,0-.02-.04,0-.06.04-.02.06,0,.02.04,0,.06Z"/>
+                    <circle class="cls-33" cx="58.55" cy="55.91" r=".05"/>
+                    <circle class="cls-33" cx="57.29" cy="56.01" r=".04"/>
+                    <path class="cls-33" d="m62.35,60.68s-.03.08,0,.11.08.03.11,0,.03-.08,0-.11-.08-.03-.11,0Z"/>
+                    <circle class="cls-33" cx="62.39" cy="59.37" r=".04"/>
+                    <path class="cls-33" d="m60.83,59.82s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <circle class="cls-33" cx="64.38" cy="62.84" r=".04"/>
+                    <path class="cls-33" d="m67.56,54.29s-.02,0-.03,0,0-.02,0-.03.02,0,.03,0,0,.02,0,.03Z"/>
+                    <path class="cls-33" d="m69.42,54.43s-.02.05,0,.06.05.02.06,0,.02-.05,0-.06-.05-.02-.06,0Z"/>
+                    <path class="cls-33" d="m68.18,52.6s-.02.04,0,.06.04.02.06,0,.02-.04,0-.06-.04-.02-.06,0Z"/>
+                    <circle class="cls-33" cx="66.16" cy="53.05" r=".05"/>
+                    <path class="cls-33" d="m64,52.73s-.01.04,0,.05.04.01.05,0,.01-.04,0-.05-.04-.01-.05,0Z"/>
+                    <path class="cls-33" d="m62.29,50s-.03.01-.04,0-.01-.03,0-.04.03-.01.04,0,.01.03,0,.04Z"/>
+                  </g>
+                  <path class="cls-16" d="m64.83,54.65c-.07.07-.07.19,0,.27s.19.07.27,0,.07-.19,0-.27-.19-.07-.27,0Z"/>
+                  <path class="cls-16" d="m64.04,53.61c-.07,0-.12.06-.12.13s.06.12.13.12c.07,0,.12-.06.12-.13,0-.07-.06-.12-.13-.12Z"/>
+                  <path class="cls-16" d="m59.92,52.63c-.07,0-.12.06-.12.13s.06.12.13.12c.07,0,.12-.06.12-.13,0-.07-.06-.12-.13-.12Z"/>
+                  <path class="cls-16" d="m59.41,56.04c-.07,0-.12.06-.12.13,0,.07.06.12.13.12s.12-.06.12-.13c0-.07-.06-.12-.13-.12Z"/>
+                  <path class="cls-16" d="m65.98,58.57c-.07,0-.12.06-.12.13,0,.07.06.12.13.12.07,0,.12-.06.12-.13,0-.07-.06-.12-.13-.12Z"/>
+                  <path class="cls-16" d="m69.53,59.06c-.07,0-.12.06-.12.13s.06.12.13.12.12-.06.12-.13c0-.07-.06-.12-.13-.12Z"/>
+                  <circle class="cls-16" cx="72.66" cy="60.92" r=".13"/>
+                </g>
+                <g>
+                  <g>
+                    <path class="cls-33" d="m80.45,66.15s-.02.04,0,.06.04.02.06,0,.02-.04,0-.06-.04-.02-.06,0Z"/>
+                    <circle class="cls-33" cx="79.94" cy="66.21" r=".04"/>
+                    <path class="cls-33" d="m79.07,65.85s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m78.47,65.7s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <path class="cls-33" d="m78.85,66.72s-.03.01-.04,0-.01-.03,0-.04.03-.01.04,0,.01.03,0,.04Z"/>
+                    <path class="cls-33" d="m79.12,67.21s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <circle class="cls-33" cx="79.32" cy="67.78" r=".02"/>
+                    <path class="cls-33" d="m78.37,67.63s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <circle class="cls-33" cx="77.52" cy="68.07" r=".01"/>
+                    <circle class="cls-33" cx="76.19" cy="67.39" r=".03"/>
+                    <polygon class="cls-33" points="76.46 67.86 76.46 67.86 76.47 67.86 76.47 67.86 76.46 67.86"/>
+                    <polygon class="cls-33" points="76.41 68.4 76.41 68.41 76.42 68.41 76.42 68.4 76.41 68.4"/>
+                    <path class="cls-33" d="m75.69,67.98s0,.01,0,.01.01,0,.01,0,0-.01,0-.01-.01,0-.01,0Z"/>
+                    <path class="cls-33" d="m77.54,69.2s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <circle class="cls-33" cx="77.17" cy="68.96" r="0"/>
+                    <path class="cls-33" d="m77.12,67.41s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <circle class="cls-33" cx="78.14" cy="67.96" r="0"/>
+                    <polygon class="cls-33" points="78.33 68.35 78.33 68.37 78.35 68.37 78.35 68.35 78.33 68.35"/>
+                    <path class="cls-33" d="m78.08,68.82s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <polygon class="cls-33" points="77.7 66.98 77.7 66.99 77.71 66.99 77.71 66.98 77.7 66.98"/>
+                    <path class="cls-33" d="m77.32,66.81s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <polygon class="cls-33" points="76.87 66.4 76.87 66.41 76.88 66.41 76.88 66.4 76.87 66.4"/>
+                    <path class="cls-33" d="m75.59,63.55s-.04.01-.05,0-.01-.04,0-.05.04-.01.05,0,.01.04,0,.05Z"/>
+                    <circle class="cls-33" cx="75.75" cy="64" r=".01"/>
+                    <polygon class="cls-33" points="74.62 63.86 74.62 63.87 74.63 63.87 74.63 63.85 74.62 63.86"/>
+                    <circle class="cls-33" cx="73.98" cy="64.3" r=".04"/>
+                    <path class="cls-33" d="m73.41,63.39s-.02.05,0,.06.05.02.06,0,.02-.05,0-.06-.05-.02-.06,0Z"/>
+                    <circle class="cls-33" cx="73.61" cy="64.31" r=".01"/>
+                    <path class="cls-33" d="m73.42,64.75s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <path class="cls-33" d="m76.22,65.69s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <path class="cls-33" d="m75.55,65.55s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m74.65,65.95s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <polygon class="cls-33" points="72.71 65.69 72.7 65.69 72.7 65.68 72.71 65.68 72.71 65.69"/>
+                    <circle class="cls-33" cx="76.82" cy="62.54" r=".01"/>
+                    <path class="cls-33" d="m76.4,62.92s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <path class="cls-33" d="m75.28,61.45s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <polygon class="cls-33" points="75.55 62.33 75.55 62.34 75.56 62.34 75.56 62.33 75.55 62.33"/>
+                    <path class="cls-33" d="m77.38,64.2s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <path class="cls-33" d="m78.32,61.89s-.02,0-.02,0,0-.02,0-.02.02,0,.02,0,0,.02,0,.02Z"/>
+                    <polygon class="cls-33" points="78.82 62.73 78.82 62.74 78.83 62.74 78.83 62.73 78.82 62.73"/>
+                    <path class="cls-33" d="m80.07,68.67s-.02,0-.03,0,0-.02,0-.03.02,0,.03,0,0,.02,0,.03Z"/>
+                    <path class="cls-33" d="m79.91,69.11s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <circle class="cls-33" cx="79.39" cy="68.77" r=".01"/>
+                    <polygon class="cls-33" points="79.58 68.04 79.58 68.05 79.59 68.05 79.59 68.04 79.58 68.04"/>
+                    <path class="cls-33" d="m78.8,68.39s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m78.65,67.44s.02,0,.03,0,0,.02,0,.03-.02,0-.03,0,0-.02,0-.03Z"/>
+                    <polygon class="cls-33" points="78.26 68.52 78.26 68.53 78.27 68.53 78.27 68.52 78.26 68.52"/>
+                    <path class="cls-33" d="m80.52,69.46s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <path class="cls-33" d="m80.83,69.1s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <path class="cls-33" d="m79.87,69.59s-.01.04,0,.05.04.01.05,0,.01-.04,0-.05-.04-.01-.05,0Z"/>
+                    <path class="cls-33" d="m79.23,70.03s-.02,0-.03,0,0-.02,0-.03.02,0,.03,0,0,.02,0,.03Z"/>
+                    <path class="cls-33" d="m78.47,69.61s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <path class="cls-33" d="m80.91,67.93s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <path class="cls-33" d="m80.25,67.4s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <path class="cls-33" d="m80.52,68.09s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <polygon class="cls-33" points="81.01 66.68 81.01 66.67 81 66.67 81 66.68 81.01 66.68"/>
+                    <path class="cls-33" d="m81.98,67.46s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <circle class="cls-33" cx="81.48" cy="67.46" r=".04"/>
+                    <path class="cls-33" d="m82.55,68.74s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <circle class="cls-33" cx="82.43" cy="67.19" r=".03"/>
+                    <path class="cls-33" d="m79.9,67.62s-.01.04,0,.05.04.01.05,0,.01-.04,0-.05-.04-.01-.05,0Z"/>
+                    <path class="cls-33" d="m79.95,67.07s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m79.36,67.33s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m79.74,68.42s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m79.35,68.28s-.03.01-.04,0-.01-.03,0-.04.03-.01.04,0,.01.03,0,.04Z"/>
+                    <circle class="cls-33" cx="80.53" cy="69.82" r=".02"/>
+                    <polygon class="cls-33" points="81.02 70.4 81.01 70.4 81.01 70.39 81.02 70.39 81.02 70.4"/>
+                    <path class="cls-33" d="m81.29,70.93s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m80.38,70.6s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m79.78,70.99s-.02.04,0,.06.04.02.06,0,.02-.04,0-.06-.04-.02-.06,0Z"/>
+                    <path class="cls-33" d="m80.34,71.96s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <path class="cls-33" d="m81.25,73.4s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <path class="cls-33" d="m82.09,72.33s-.01.03,0,.04.03.01.04,0,.01-.03,0-.04-.03-.01-.04,0Z"/>
+                    <circle class="cls-33" cx="81.64" cy="72.04" r="0"/>
+                    <polygon class="cls-33" points="82.91 71.25 82.91 71.26 82.92 71.26 82.92 71.25 82.91 71.25"/>
+                    <path class="cls-33" d="m84,69.65s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <circle class="cls-33" cx="83.43" cy="69.07" r=".04"/>
+                    <path class="cls-33" d="m83.04,69.65s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <polygon class="cls-33" points="83.69 70.44 83.7 70.44 83.7 70.45 83.69 70.45 83.69 70.44"/>
+                    <path class="cls-33" d="m82.44,69.82s0,.01,0,.02.01,0,.02,0,0-.01,0-.02-.01,0-.02,0Z"/>
+                    <circle class="cls-33" cx="84.02" cy="71.94" r=".07"/>
+                    <path class="cls-33" d="m82.11,71.09s-.03.07,0,.1.07.03.1,0,.03-.07,0-.1-.07-.03-.1,0Z"/>
+                    <path class="cls-33" d="m82.66,71.49s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <path class="cls-33" d="m83.69,73.25s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m83.25,73.16s-.02.05,0,.06.05.02.06,0,.02-.05,0-.06-.05-.02-.06,0Z"/>
+                    <circle class="cls-33" cx="82.78" cy="72.66" r=".03"/>
+                    <path class="cls-33" d="m85.09,73.61s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <circle class="cls-33" cx="85.49" cy="72.68" r=".02"/>
+                    <path class="cls-33" d="m86.35,71.39s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m85.2,70.36s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <path class="cls-33" d="m85.84,73.42s-.02,0-.03,0,0-.02,0-.03.02,0,.03,0,0,.02,0,.03Z"/>
+                    <path class="cls-33" d="m87.41,72.06s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m87.63,69.52s-.01,0-.02,0,0-.01,0-.02.01,0,.02,0,0,.01,0,.02Z"/>
+                    <path class="cls-33" d="m86.06,68.29s-.02.04,0,.06.04.02.06,0,.02-.04,0-.06-.04-.02-.06,0Z"/>
+                    <path class="cls-33" d="m87.87,70.72s0,.02,0,.03.02,0,.03,0,0-.02,0-.03-.02,0-.03,0Z"/>
+                    <path class="cls-33" d="m83.91,67.55s-.02.05,0,.07.05.02.07,0,.02-.05,0-.07-.05-.02-.07,0Z"/>
+                    <path class="cls-33" d="m84.57,70.01s0,.02,0,.02.02,0,.02,0,0-.02,0-.02-.02,0-.02,0Z"/>
+                    <path class="cls-33" d="m85.96,70.03s-.03.01-.05,0-.01-.03,0-.05.03-.01.05,0,.01.03,0,.05Z"/>
+                    <path class="cls-33" d="m81.92,75.42s-.01,0-.02,0,0-.01,0-.02.01,0,.02,0,0,.01,0,.02Z"/>
+                    <path class="cls-33" d="m82.47,76.76s-.01.03,0,.05.03.01.05,0,.01-.03,0-.05-.03-.01-.05,0Z"/>
+                    <circle class="cls-33" cx="81.23" cy="76.16" r=".02"/>
+                    <path class="cls-33" d="m73.36,68.25s-.04.02-.06,0-.02-.04,0-.06.04-.02.06,0,.02.04,0,.06Z"/>
+                    <circle class="cls-33" cx="73.3" cy="66.97" r=".05"/>
+                    <circle class="cls-33" cx="72.04" cy="67.08" r=".04"/>
+                    <path class="cls-33" d="m77.1,71.74s-.03.08,0,.11.08.03.11,0,.03-.08,0-.11-.08-.03-.11,0Z"/>
+                    <circle class="cls-33" cx="77.14" cy="70.43" r=".04"/>
+                    <path class="cls-33" d="m75.58,70.88s0,.03,0,.04.03,0,.04,0,0-.03,0-.04-.03,0-.04,0Z"/>
+                    <circle class="cls-33" cx="79.13" cy="73.91" r=".04"/>
+                    <path class="cls-33" d="m82.31,65.35s-.02,0-.03,0,0-.02,0-.03.02,0,.03,0,0,.02,0,.03Z"/>
+                    <path class="cls-33" d="m84.17,65.5s-.02.05,0,.06.05.02.06,0,.02-.05,0-.06-.05-.02-.06,0Z"/>
+                    <path class="cls-33" d="m82.93,63.66s-.02.04,0,.06.04.02.06,0,.02-.04,0-.06-.04-.02-.06,0Z"/>
+                    <circle class="cls-33" cx="80.91" cy="64.11" r=".05"/>
+                    <path class="cls-33" d="m78.75,63.8s-.01.04,0,.05.04.01.05,0,.01-.04,0-.05-.04-.01-.05,0Z"/>
+                    <path class="cls-33" d="m77.04,61.07s-.03.01-.04,0-.01-.03,0-.04.03-.01.04,0,.01.03,0,.04Z"/>
+                  </g>
+                  <path class="cls-16" d="m79.58,65.72c-.07.07-.07.19,0,.27s.19.07.27,0,.07-.19,0-.27-.19-.07-.27,0Z"/>
+                  <path class="cls-16" d="m78.79,64.68c-.07,0-.12.06-.12.13s.06.12.13.12c.07,0,.12-.06.12-.13,0-.07-.06-.12-.13-.12Z"/>
+                  <path class="cls-16" d="m74.67,63.7c-.07,0-.12.06-.12.13s.06.12.13.12c.07,0,.12-.06.12-.13,0-.07-.06-.12-.13-.12Z"/>
+                  <path class="cls-16" d="m74.16,67.11c-.07,0-.12.06-.12.13,0,.07.06.12.13.12s.12-.06.12-.13c0-.07-.06-.12-.13-.12Z"/>
+                  <path class="cls-16" d="m80.73,69.63c-.07,0-.12.06-.12.13,0,.07.06.12.13.12.07,0,.12-.06.12-.13,0-.07-.06-.12-.13-.12Z"/>
+                  <path class="cls-16" d="m84.28,70.13c-.07,0-.12.06-.12.13s.06.12.13.12.12-.06.12-.13c0-.07-.06-.12-.13-.12Z"/>
+                  <circle class="cls-16" cx="87.42" cy="71.99" r=".13"/>
+                </g>
+                <g class="cls-82">
+                  <ellipse class="cls-39" cx="77.2" cy="66.33" rx="7.98" ry="7.75"/>
+                  <g class="cls-92">
+                    <g class="cls-59">
+                      <ellipse class="cls-33" cx="77.2" cy="66.33" rx="7.98" ry="7.75"/>
+                    </g>
+                  </g>
+                </g>
+                <ellipse class="cls-25" cx="69.97" cy="68.57" rx="7.37" ry="7.16"/>
+              </g>
+            </g>
+            <g class="cls-80">
+              <g class="cls-97">
+                <g class="cls-87">
+                  <path class="cls-21" d="m81.69,27.01l-2.79.05,9.92,2.63.04.05-9.98-2.66-6.26,6.63-7.31-1.48-5.05,5.27-4.32-2.86,9.36-2.44h0s0,0,0,0l13.57-5.15,2.8-.07.02.02Zm-9.08,6.68l6.22-6.59-13.48,5.11,7.26,1.47Zm-7.35-1.45l-9.25,2.42,4.23,2.82,5.02-5.23Z"/>
+                  <path class="cls-21" d="m68.78,31.55l2.38-4.24h0l7.26,2.74,6.67-2.43v.02s-6.63,2.41-6.63,2.41l7.78,1.79-13.6,1.86h-.02s-.01,0-.01,0h0s0,0,0,0l-3.82-2.13-5.08,5.9h0s-8.61.06-8.61.06h-.04s10.17-7.97,10.17-7.97h0s3.55,1.97,3.55,1.97Zm-5.09,5.91l5.07-5.89-3.53-1.97-10.1,7.91,8.56-.06Zm8.92-3.77h.01s5.77-3.61,5.77-3.61l-7.22-2.71-2.37,4.2,3.81,2.12Zm13.48-1.84l-7.67-1.76-5.74,3.59,13.41-1.83Z"/>
+                  <polygon class="cls-21" points="65.28 32.22 63.67 37.5 63.7 37.48 76.48 29.63 76.46 29.61 63.72 37.44 65.31 32.22 65.28 32.22"/>
+                </g>
+              </g>
+            </g>
+            <g class="cls-80">
+              <g class="cls-75">
+                <g class="cls-87">
+                  <path class="cls-21" d="m74.09,12.69l-2.79.05,9.92,2.63.04.05-9.98-2.66-6.26,6.63-7.31-1.48-5.05,5.27-4.32-2.86,9.36-2.44h0s0,0,0,0l13.57-5.15,2.8-.07.02.02Zm-9.08,6.68l6.22-6.59-13.48,5.11,7.26,1.47Zm-7.35-1.45l-9.25,2.42,4.23,2.82,5.02-5.23Z"/>
+                  <path class="cls-21" d="m61.17,17.23l2.38-4.24h0l7.26,2.74,6.67-2.43v.02s-6.63,2.41-6.63,2.41l7.78,1.79-13.6,1.86h-.02s-.01,0-.01,0h0s0,0,0,0l-3.82-2.13-5.08,5.9h0s-8.61.06-8.61.06h-.04s10.17-7.97,10.17-7.97h0s3.55,1.97,3.55,1.97Zm-5.09,5.91l5.07-5.89-3.53-1.97-10.1,7.91,8.56-.06Zm8.92-3.77h.01s5.77-3.61,5.77-3.61l-7.22-2.71-2.37,4.2,3.81,2.12Zm13.48-1.84l-7.67-1.76-5.74,3.59,13.41-1.83Z"/>
+                  <polygon class="cls-21" points="57.68 17.9 56.07 23.18 56.1 23.16 68.87 15.31 68.86 15.29 56.12 23.12 57.71 17.9 57.68 17.9"/>
+                </g>
+                <path class="cls-25" d="m67.83,18.61c.42-.55.6-1.25.55-1.94-.07-.98-.51-1.65-1.06-2.08l-.11-.09-.43-.34c-1.08-.85-2.65-.92-3.7-.03-1.37,1.17-1.33,3.18-.1,4.31l.19.17.41.37c1.24,1.13,3.2.97,4.24-.39Z"/>
+              </g>
+            </g>
+            <g class="cls-80">
+              <g class="cls-76">
+                <g class="cls-87">
+                  <path class="cls-21" d="m64.93,64.41l7.89-6.89,5.15-16h0s0,0,0,0l1.17-12.3,4.66,6.15-5.8,6.16,2.15,8.37-7.3,7.64-.76,4.27h-.03s.76-4.24.76-4.24l-7.87,6.86h-.03Zm13.05-22.84l-5.12,15.9,7.25-7.59-2.13-8.32Zm5.78-6.21l-4.62-6.15-1.14,12.26,5.76-6.11Z"/>
+                  <path class="cls-21" d="m76.66,41.52h0s6.87-12.16,6.87-12.16v.04s.45,9.96.45,9.96h0s-6.52,6.23-6.52,6.23l2.69,4.29h0s0,0,0,0h0s-.01.03-.01.03l-9.93,6.62,6.06.33-4.28,5.14-.03-.02,4.29-5.16-1.82-7.83h0s2.97-3.41,2.97-3.41l-.76-4.07Zm6.85-12.07l-6.82,12.07.75,4.04,6.51-6.22-.44-9.9Zm-6.07,16.17l-2.96,3.4,1.81,7.78,3.84-6.89h0s-2.68-4.29-2.68-4.29Zm2.68,4.36l-3.82,6.86-6.08-.3,9.9-6.56Z"/>
+                  <polygon class="cls-21" points="77.98 41.5 84 39.32 83.98 39.36 75.66 54.6 75.63 54.59 83.93 39.38 77.99 41.53 77.98 41.5"/>
+                </g>
+              </g>
+            </g>
+            <path class="cls-25" d="m50.3,41.68l.05-.55c.16-1.56-.75-3.1-2.25-3.56-2.05-.63-4.04.78-4.24,2.79,0,0,0,.02,0,.03v.06s-.05.54-.05.54v.05c-.12,1.4.63,2.78,1.93,3.32,2.17.89,4.35-.56,4.56-2.67Z"/>
+            <g class="cls-80">
+              <g class="cls-90">
+                <g class="cls-87">
+                  <path class="cls-21" d="m64.21,54.38l7.89-6.89,5.15-16h0s0,0,0,0l1.17-12.3,4.66,6.15-5.8,6.16,2.15,8.37-7.3,7.64-.76,4.27h-.03s.76-4.24.76-4.24l-7.87,6.86h-.03Zm13.05-22.84l-5.12,15.9,7.25-7.59-2.13-8.32Zm5.78-6.21l-4.62-6.15-1.14,12.26,5.76-6.11Z"/>
+                  <path class="cls-21" d="m75.93,31.48h0s6.87-12.16,6.87-12.16v.04s.45,9.96.45,9.96h0s-6.52,6.23-6.52,6.23l2.69,4.29h0s0,0,0,0h0s-.01.03-.01.03l-9.93,6.62,6.06.33-4.28,5.14-.03-.02,4.29-5.16-1.82-7.83h0s2.97-3.41,2.97-3.41l-.76-4.07Zm6.85-12.07l-6.82,12.07.75,4.04,6.51-6.22-.44-9.9Zm-6.07,16.17l-2.96,3.4,1.81,7.78,3.84-6.89h0s-2.68-4.29-2.68-4.29Zm2.68,4.36l-3.82,6.86-6.08-.3,9.9-6.56Z"/>
+                  <polygon class="cls-21" points="77.26 31.47 83.27 29.29 83.25 29.33 74.93 44.57 74.9 44.55 83.2 29.35 77.27 31.5 77.26 31.47"/>
+                </g>
+              </g>
+            </g>
+            <g class="cls-80">
+              <path class="cls-20" d="m69.08,25.91c.42-.55.6-1.25.55-1.94-.07-.98-.51-1.65-1.06-2.08l-.11-.09-.43-.34c-1.08-.85-2.65-.92-3.7-.03-1.37,1.17-1.33,3.18-.1,4.31l.19.17.41.37c1.24,1.13,3.2.97,4.24-.39Z"/>
+              <g class="cls-83">
+                <g class="cls-87">
+                  <path class="cls-21" d="m75.34,19.99l-2.79.05,9.92,2.63.04.05-9.98-2.66-6.26,6.63-7.31-1.48-5.05,5.27-4.32-2.86,9.36-2.44h0s0,0,0,0l13.57-5.15,2.8-.07.02.02Zm-9.08,6.68l6.22-6.59-13.48,5.11,7.26,1.47Zm-7.35-1.45l-9.25,2.42,4.23,2.82,5.02-5.23Z"/>
+                  <path class="cls-21" d="m62.43,24.52l2.38-4.24h0l7.26,2.74,6.67-2.43v.02s-6.63,2.41-6.63,2.41l7.78,1.79-13.6,1.86h-.02s-.01,0-.01,0h0s0,0,0,0l-3.82-2.13-5.08,5.9h0s-8.61.06-8.61.06h-.04s10.17-7.97,10.17-7.97h0s3.55,1.97,3.55,1.97Zm-5.09,5.91l5.07-5.89-3.53-1.97-10.1,7.91,8.56-.06Zm8.92-3.77h.01s5.77-3.61,5.77-3.61l-7.22-2.71-2.37,4.2,3.81,2.12Zm13.48-1.84l-7.67-1.76-5.74,3.59,13.41-1.83Z"/>
+                  <polygon class="cls-21" points="58.94 25.19 57.33 30.47 57.36 30.45 70.13 22.6 70.12 22.58 57.37 30.41 58.97 25.2 58.94 25.19"/>
+                </g>
+              </g>
+            </g>
+            <g class="cls-80">
+              <g class="cls-98">
+                <g class="cls-87">
+                  <path class="cls-21" d="m46.27,34.79l.48.5.4-20.22h0s0,0,0,0L42.52.23l7.4,5.52-2.73,9.31,3.99,9.67-4.39,10.56,1.41.04-.03.02-1.4-.03-.5-.54h0Zm.92-19.66l-.39,20.09,4.34-10.48-3.95-9.61Zm2.69-9.37L42.52.23l4.66,14.77,2.69-9.24Z"/>
+                  <path class="cls-21" d="m45.02,9.97h0s.55-10.73.55-10.73l.02.05,5.38,11.13h0s-3.05,9.9-3.05,9.9l3.24,4.4h0s0,0,0,0h.01s0,.04,0,.04l-1.7,8-1.16,2.5-.93.3h-.04s.94-.35.94-.35l-1.26-9.68h0s.85-5.22.85-5.22l-2.85-10.35Zm.55-10.62l-.51,10.6,2.83,10.33,3.04-9.88L45.57-.65Zm2.33,21l-.84,5.19,1.23,9.63,2.84-10.41v-.02s-3.23-4.39-3.23-4.39Zm3.25,4.5l-2.83,10.37,1.12-2.46,1.71-7.91Z"/>
+                  <polygon class="cls-21" points="47.16 15.05 50.98 10.37 50.97 10.42 48.76 34.87 48.73 34.86 50.92 10.46 47.19 15.08 47.16 15.05"/>
+                </g>
+              </g>
+            </g>
+            <circle class="cls-45" cx="65.01" cy="23.34" r=".57"/>
+            <circle class="cls-36" cx="66.63" cy="25.01" r=".57"/>
+            <circle class="cls-10" cx="67.94" cy="22.84" r=".57"/>
+            <circle class="cls-52" cx="71.36" cy="30.37" r=".57"/>
+            <circle class="cls-32" cx="72.98" cy="32.03" r=".57"/>
+            <circle class="cls-50" cx="74.28" cy="28.69" r=".57"/>
+            <circle class="cls-49" cx="74.71" cy="39.66" r=".57"/>
+            <circle class="cls-31" cx="76.32" cy="41.32" r=".57"/>
+            <circle class="cls-46" cx="77.63" cy="37.98" r=".57"/>
+            <circle class="cls-40" cx="75.71" cy="49.91" r=".57"/>
+            <circle class="cls-22" cx="77.33" cy="51.57" r=".57"/>
+            <circle class="cls-23" cx="78.63" cy="48.23" r=".57"/>
+            <circle class="cls-29" cx="51.96" cy="77.8" r=".57"/>
+            <circle class="cls-34" cx="53.72" cy="76.13" r=".57"/>
+            <g>
+              <circle class="cls-13" cx="41.42" cy="77.26" r=".57"/>
+              <circle class="cls-11" cx="43.17" cy="76.45" r=".57"/>
+            </g>
+            <path class="cls-16" d="m9.43,68.33c.23,0,.43-.18.43-.41s-.18-.43-.41-.43-.43.18-.43.41.18.43.41.43Z"/>
+            <path class="cls-16" d="m12.25,57.96c.23,0,.43-.18.43-.41s-.18-.43-.41-.43-.43.18-.43.41.18.43.41.43Z"/>
+            <path class="cls-16" d="m19.57,45c.23,0,.43-.18.43-.41s-.18-.43-.41-.43-.43.18-.43.41.18.43.41.43Z"/>
+            <path class="cls-16" d="m11.33,63c.23,0,.43-.18.43-.41s-.18-.43-.41-.43-.43.18-.43.41.18.43.41.43Z"/>
+            <path class="cls-16" d="m14.15,52.62c.23,0,.43-.18.43-.41s-.18-.43-.41-.43-.43.18-.43.41.18.43.41.43Z"/>
+            <path class="cls-16" d="m17.43,66.61c.23,0,.43-.18.43-.41s-.18-.43-.41-.43-.43.18-.43.41.18.43.41.43Z"/>
+            <path class="cls-16" d="m16.5,71.64c.23,0,.43-.18.43-.41s-.18-.43-.41-.43-.43.18-.43.41.18.43.41.43Z"/>
+            <path class="cls-16" d="m19.33,61.27c.23,0,.43-.18.43-.41s-.18-.43-.41-.43-.43.18-.43.41.18.43.41.43Z"/>
+            <path class="cls-16" d="m16.94,26.99c.23,0,.43-.18.43-.41s-.18-.43-.41-.43-.43.18-.43.41.18.43.41.43Z"/>
+            <path class="cls-16" d="m16.02,32.02c.23,0,.43-.18.43-.41s-.18-.43-.41-.43-.43.18-.43.41.18.43.41.43Z"/>
+            <path class="cls-16" d="m18.84,21.65c.23,0,.43-.18.43-.41s-.18-.43-.41-.43-.43.18-.43.41.18.43.41.43Z"/>
+            <path class="cls-16" d="m10.32,48.8c.23,0,.43-.18.43-.41s-.18-.43-.41-.43-.43.18-.43.41.18.43.41.43Z"/>
+            <path class="cls-16" d="m9.39,53.84c.23,0,.43-.18.43-.41s-.18-.43-.41-.43-.43.18-.43.41.18.43.41.43Z"/>
+            <path class="cls-16" d="m12.22,43.47c.23,0,.43-.18.43-.41s-.18-.43-.41-.43-.43.18-.43.41.18.43.41.43Z"/>
+            <path class="cls-16" d="m25.93,15.98c.23,0,.43-.18.43-.41s-.18-.43-.41-.43-.43.18-.43.41.18.43.41.43Z"/>
+            <path class="cls-16" d="m25,21.01c.23,0,.43-.18.43-.41s-.18-.43-.41-.43-.43.18-.43.41.18.43.41.43Z"/>
+            <path class="cls-16" d="m27.83,10.64c.23,0,.43-.18.43-.41s-.18-.43-.41-.43-.43.18-.43.41.18.43.41.43Z"/>
+            <path class="cls-16" d="m19.52,82.98c.23,0,.43-.18.43-.41s-.18-.43-.41-.43-.43.18-.43.41.18.43.41.43Z"/>
+            <g class="cls-80">
+              <g class="cls-64">
+                <g class="cls-87">
+                  <path class="cls-21" d="m36.76,30.75l.35.36.29-14.5h0s0,0,0,0l-3.32-10.63,5.31,3.96-1.96,6.68,2.86,6.94-3.14,7.57,1.01.03-.02.02-1-.02-.36-.39h0Zm.66-14.1l-.28,14.4,3.11-7.51-2.83-6.89Zm1.93-6.72l-5.27-3.96,3.34,10.59,1.93-6.63Z"/>
+                  <path class="cls-21" d="m35.86,12.95h0s.39-7.7.39-7.7v.04s3.87,7.98,3.87,7.98h0s-2.18,7.1-2.18,7.1l2.32,3.16h0s0,0,0,0h0s0,.03,0,.03l-1.22,5.74-.83,1.8-.67.21h-.03s.67-.25.67-.25l-.91-6.94h0s.61-3.74.61-3.74l-2.04-7.42Zm.39-7.61l-.36,7.6,2.03,7.41,2.18-7.08-3.84-7.93Zm1.67,15.05l-.6,3.72.88,6.9,2.04-7.47h0s-2.32-3.16-2.32-3.16Zm2.33,3.23l-2.03,7.43.8-1.76,1.23-5.67Z"/>
+                  <polygon class="cls-21" points="37.4 16.59 40.14 13.23 40.13 13.27 38.55 30.81 38.52 30.8 40.09 13.3 37.41 16.61 37.4 16.59"/>
+                </g>
+              </g>
+            </g>
+            <g class="cls-80">
+              <g class="cls-81">
+                <g class="cls-87">
+                  <path class="cls-21" d="m28.01,30.95l.23.24.19-9.71h0s0,0,0,0l-2.22-7.12,3.55,2.65-1.31,4.47,1.91,4.64-2.11,5.07.68.02h-.01s-.67,0-.67,0l-.24-.26h0Zm.44-9.44l-.19,9.64,2.08-5.03-1.9-4.61Zm1.29-4.5l-3.53-2.65,2.24,7.09,1.29-4.44Z"/>
+                  <path class="cls-21" d="m27.41,19.03h0s.26-5.15.26-5.15v.03s2.59,5.34,2.59,5.34h0s-1.46,4.75-1.46,4.75l1.56,2.11h0s0,0,0,0h0s0,.02,0,.02l-.82,3.84-.56,1.2-.45.14h-.02s.45-.17.45-.17l-.61-4.65h0s.41-2.51.41-2.51l-1.37-4.97Zm.26-5.1l-.24,5.09,1.36,4.96,1.46-4.74-2.57-5.31Zm1.12,10.08l-.4,2.49.59,4.62,1.36-5h0s-1.55-2.12-1.55-2.12Zm1.56,2.16l-1.36,4.98.54-1.18.82-3.8Z"/>
+                  <polygon class="cls-21" points="28.44 21.47 30.27 19.23 30.26 19.25 29.2 30.99 29.19 30.99 30.24 19.27 28.45 21.49 28.44 21.47"/>
+                </g>
+              </g>
+            </g>
+            <g class="cls-80">
+              <g class="cls-72">
+                <g class="cls-87">
+                  <path class="cls-21" d="m26.75,33.65l.24-.05-5.87-3.9h0s0,0,0,0l-5.23-1.41,3.01-1.14,2.23,2.55,3.59.64,2.28,3.27.28-.41h0s-.27.42-.27.42l-.25.05h0Zm-5.61-3.95l5.83,3.88-2.27-3.24-3.56-.64Zm-2.25-2.55l-3,1.13,5.22,1.39-2.21-2.52Z"/>
+                  <path class="cls-21" d="m19.22,29.37h0s-3.05-2.17-3.05-2.17h.02s4.28.51,4.28.51h0s2.34,2.75,2.34,2.75l1.9-.13h0s0,0,0,0h0s0,0,0,0l2.03,2,.52.81-.09.33h0s.08-.33.08-.33l-3.08-1.44h0s-1.37-1.23-1.37-1.23l-3.58-1.1Zm-3.02-2.15l3.02,2.13,3.57,1.1-2.33-2.74-4.26-.5Zm6.61,3.25l1.37,1.22,3.06,1.44-2.53-2.78h0s-1.9.13-1.9.13Zm1.93-.11l2.52,2.77-.51-.79-2-1.98Z"/>
+                  <polygon class="cls-21" points="21.11 29.7 20.45 27.7 20.46 27.71 27.24 32.94 27.23 32.95 20.47 27.73 21.13 29.69 21.11 29.7"/>
+                </g>
+              </g>
+            </g>
+            <g class="cls-80">
+              <g class="cls-95">
+                <g class="cls-87">
+                  <path class="cls-21" d="m22.93,41.54l.2-.1-6.24-2.01h0s0,0,0,0l-5.04.06,2.4-1.78,2.64,1.71,3.37-.34,2.87,2.34.14-.43h0s-.14.44-.14.44l-.21.11h0Zm-6.02-2.12l6.2,1.99-2.85-2.32-3.35.33Zm-2.66-1.71l-2.4,1.77,5.02-.07-2.62-1.7Z"/>
+                  <path class="cls-21" d="m15.11,39.61h0s-3.28-1.17-3.28-1.17h.02s3.96-.63,3.96-.63h0s2.79,1.87,2.79,1.87l1.67-.6h0s0,0,0,0h0s0,0,0,0l2.33,1.27.67.59v.32s0,.01,0,.01l-.02-.32-3.12-.51h0s-1.54-.75-1.54-.75l-3.48-.08Zm-3.24-1.16l3.25,1.14,3.47.08-2.78-1.86-3.93.63Zm6.74,1.23l1.53.74,3.1.51-2.97-1.85h0s-1.66.59-1.66.59Zm1.7-.59l2.96,1.84-.66-.58-2.3-1.27Z"/>
+                  <polygon class="cls-21" points="16.88 39.42 15.79 37.8 15.8 37.81 23.19 40.77 23.18 40.78 15.81 37.83 16.9 39.42 16.88 39.42"/>
+                </g>
+              </g>
+            </g>
+            <g class="cls-80">
+              <g class="cls-74">
+                <g class="cls-87">
+                  <path class="cls-21" d="m19.86,50.74l.08-.13-3.51-.6h0s0,0,0,0l-2.46.96.79-1.98,1.67,1,1.58-.9,1.93,1.51-.03-.4h0s.03.41.03.41l-.08.13h0Zm-3.42-.74l3.48.6-1.91-1.49-1.57.89Zm-1.68-.99l-.79,1.96,2.45-.97-1.66-.99Z"/>
+                  <path class="cls-21" d="m15.59,50.49h0s-1.87-.42-1.87-.42h0s1.8-1.27,1.8-1.27h0s1.78,1.11,1.78,1.11l.69-.82h0s0,0,0,0h0s0,0,0,0l1.42.68.46.39.07.27h0s-.08-.26-.08-.26l-1.65.13h0s-.92-.37-.92-.37l-1.73.56Zm-1.85-.41l1.85.4,1.72-.56-1.78-1.1-1.79,1.26Zm3.58-.16l.92.36,1.64-.12-1.87-1.06h0s-.69.82-.69.82Zm.7-.82l1.86,1.06-.45-.38-1.41-.68Z"/>
+                  <polygon class="cls-21" points="16.42 50.01 15.52 48.8 15.53 48.81 19.82 50.03 19.81 50.04 15.54 48.82 16.43 50 16.42 50.01"/>
+                </g>
+              </g>
+            </g>
+            <g class="cls-80">
+              <g class="cls-65">
+                <g class="cls-87">
+                  <path class="cls-21" d="m22.09,57.78v-.15s-3.42.95-3.42.95h0s0,0,0,0l-1.82,1.92-.13-2.12,1.94.19,1.05-1.49,2.39.54-.19-.35h0s.19.36.19.36l-.02.15h0Zm-3.41.79l3.41-.94-2.37-.53-1.04,1.48Zm-1.95-.18l.12,2.11,1.8-1.92-1.92-.19Z"/>
+                  <path class="cls-21" d="m18.12,59.38h0s-1.87.42-1.87.42h0s1.09-1.92,1.09-1.92h0s2.08.24,2.08.24l.27-1.03h0s0,0,0,0h0s0,0,0,0h1.58s.58.17.58.17l.18.21h0s-.19-.21-.19-.21l-1.44.82h0s-.99.06-.99.06l-1.32,1.24Zm-1.85.41l1.84-.42,1.32-1.24-2.08-.24-1.08,1.9Zm3.17-1.67l.99-.06,1.43-.81-2.14-.16h0s-.27,1.03-.27,1.03Zm.29-1.04l2.13.16-.57-.15h-1.56Z"/>
+                  <polygon class="cls-21" points="18.67 58.58 17.34 57.88 17.35 57.88 21.75 57.16 21.75 57.17 17.37 57.89 18.67 58.58 18.67 58.58"/>
+                </g>
+              </g>
+            </g>
+            <g class="cls-80">
+              <g class="cls-96">
+                <g class="cls-87">
+                  <path class="cls-21" d="m29.25,64.52l-.06-.23-4.75,3.53h0s0,0,0,0l-1.66,4.06-1.48-3.21,3.12-.86.73-2.94,4.02-.59-.51-.43h.02s.51.43.51.43l.06.25h0Zm-4.81,3.28l4.71-3.51-3.99.59-.73,2.92Zm-3.12.89l1.46,3.2,1.64-4.06-3.1.86Z"/>
+                  <path class="cls-21" d="m24.06,69.37h0s-2.64,1.77-2.64,1.77h0s.54-3.64.54-3.64h0s3.37-.87,3.37-.87l-.2-1.76h0s0,0,0,0h0s0,0,0,0l2.45-.93,1-.11.41.22h.01s-.42-.21-.42-.21l-1.73,2.13h0s-1.5.69-1.5.69l-1.3,2.72Zm-2.62,1.75l2.6-1.76,1.31-2.71-3.37.87-.54,3.6Zm3.91-4.49l1.49-.69,1.73-2.11-3.42,1.03h0s.19,1.76.19,1.76Zm-.18-1.79l3.4-1.02-.97.11-2.43.92Z"/>
+                  <polygon class="cls-21" points="24.43 67.81 21.95 67.52 21.97 67.51 28.34 63.76 28.36 63.77 22 67.52 24.43 67.8 24.43 67.81"/>
+                </g>
+              </g>
+            </g>
+            <g class="cls-80">
+              <g class="cls-94">
+                <g class="cls-87">
+                  <path class="cls-21" d="m29.25,64.52l-.06-.23-4.75,3.53h0s0,0,0,0l-1.66,4.06-1.48-3.21,3.12-.86.73-2.94,4.02-.59-.51-.43h.02s.51.43.51.43l.06.25h0Zm-4.81,3.28l4.71-3.51-3.99.59-.73,2.92Zm-3.12.89l1.46,3.2,1.64-4.06-3.1.86Z"/>
+                  <path class="cls-21" d="m24.06,69.37h0s-2.64,1.77-2.64,1.77h0s.54-3.64.54-3.64h0s3.37-.87,3.37-.87l-.2-1.76h0s0,0,0,0h0s0,0,0,0l2.45-.93,1-.11.41.22h.01s-.42-.21-.42-.21l-1.73,2.13h0s-1.5.69-1.5.69l-1.3,2.72Zm-2.62,1.75l2.6-1.76,1.31-2.71-3.37.87-.54,3.6Zm3.91-4.49l1.49-.69,1.73-2.11-3.42,1.03h0s.19,1.76.19,1.76Zm-.18-1.79l3.4-1.02-.97.11-2.43.92Z"/>
+                  <polygon class="cls-21" points="24.43 67.81 21.95 67.52 21.97 67.51 28.34 63.76 28.36 63.77 22 67.52 24.43 67.8 24.43 67.81"/>
+                </g>
+              </g>
+            </g>
+            <g class="cls-80">
+              <g class="cls-86">
+                <g class="cls-87">
+                  <path class="cls-21" d="m40.26,69.44l-.1-.37-7.42,5.52h0s0,0,0,0l-2.6,6.35-2.31-5.02,4.89-1.35,1.14-4.6,6.29-.93-.8-.67h.03s.8.67.8.67l.1.39h0Zm-7.52,5.12l7.37-5.49-6.23.93-1.13,4.56Zm-4.88,1.39l2.28,5,2.56-6.35-4.84,1.35Z"/>
+                  <path class="cls-21" d="m32.16,77.03h0s-4.13,2.77-4.13,2.77v-.02s.86-5.66.86-5.66h0s5.27-1.37,5.27-1.37l-.31-2.76h0s0,0,0,0h0s.01-.01.01-.01l3.83-1.46,1.56-.17.64.35.02.02-.66-.34-2.71,3.32h0s-2.34,1.07-2.34,1.07l-2.03,4.26Zm-4.09,2.74l4.06-2.76,2.04-4.24-5.26,1.37-.84,5.63Zm6.12-7.02l2.33-1.07,2.71-3.29-5.34,1.61h0s.3,2.76.3,2.76Zm-.28-2.79l5.32-1.6-1.52.17-3.8,1.43Z"/>
+                  <polygon class="cls-21" points="32.73 74.6 28.86 74.13 28.88 74.12 38.85 68.25 38.87 68.27 28.93 74.13 32.73 74.58 32.73 74.6"/>
+                </g>
+              </g>
+            </g>
+            <g class="cls-80">
+              <g class="cls-63">
+                <g class="cls-87">
+                  <path class="cls-21" d="m49.98,72.73l-.1-.37-7.42,5.52h0s0,0,0,0l-2.6,6.35-2.31-5.02,4.89-1.35,1.14-4.6,6.29-.93-.8-.67h.03s.8.67.8.67l.1.39h0Zm-7.52,5.12l7.37-5.49-6.23.93-1.13,4.56Zm-4.88,1.39l2.28,5,2.56-6.35-4.84,1.35Z"/>
+                  <path class="cls-21" d="m41.88,80.32h0s-4.13,2.77-4.13,2.77v-.02s.86-5.66.86-5.66h0s5.27-1.37,5.27-1.37l-.31-2.76h0s0,0,0,0h0s.01-.01.01-.01l3.83-1.46,1.56-.17.64.35.02.02-.66-.34-2.71,3.32h0s-2.34,1.07-2.34,1.07l-2.03,4.26Zm-4.09,2.74l4.06-2.76,2.04-4.24-5.26,1.37-.84,5.63Zm6.12-7.02l2.33-1.07,2.71-3.29-5.34,1.61h0s.3,2.76.3,2.76Zm-.28-2.79l5.32-1.6-1.52.17-3.8,1.43Z"/>
+                  <polygon class="cls-21" points="42.45 77.88 38.58 77.42 38.6 77.41 48.57 71.54 48.59 71.56 38.64 77.42 42.45 77.86 42.45 77.88"/>
+                </g>
+              </g>
+            </g>
+            <g class="cls-80">
+              <g class="cls-77">
+                <g class="cls-87">
+                  <path class="cls-21" d="m59.99,72.5l-.1-.37-7.42,5.52h0s0,0,0,0l-2.6,6.35-2.31-5.02,4.89-1.35,1.14-4.6,6.29-.93-.8-.67h.03s.8.67.8.67l.1.39h0Zm-7.52,5.12l7.37-5.49-6.23.93-1.13,4.56Zm-4.88,1.39l2.28,5,2.56-6.35-4.84,1.35Z"/>
+                  <path class="cls-21" d="m51.88,80.09h0s-4.13,2.77-4.13,2.77v-.02s.86-5.66.86-5.66h0s5.27-1.37,5.27-1.37l-.31-2.76h0s0,0,0,0h0s.01-.01.01-.01l3.83-1.46,1.56-.17.64.35.02.02-.66-.34-2.71,3.32h0s-2.34,1.07-2.34,1.07l-2.03,4.26Zm-4.09,2.74l4.06-2.76,2.04-4.24-5.26,1.37-.84,5.63Zm6.12-7.02l2.33-1.07,2.71-3.29-5.34,1.61h0s.3,2.76.3,2.76Zm-.28-2.79l5.32-1.6-1.52.17-3.8,1.43Z"/>
+                  <polygon class="cls-21" points="52.46 77.66 48.59 77.19 48.61 77.18 58.58 71.31 58.6 71.33 48.65 77.19 52.45 77.64 52.46 77.66"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,79 @@
+.approveModal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    overflow-x: hidden;
+    position: fixed;
+    inset: 0;
+    z-index: 100;
+    background-color: rgba(30, 30, 30, 0.739);
+}
+
+.approveModalContainer{
+    padding: 30px 40px;
+    width: 550px;
+    height: auto;
+    background-color: white;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.approveModalActionsContainer{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.approveModalContainerContentHeader{
+    font-size: 25px;
+}
+
+.approveModalActionsContainerDeleteBtn{
+    background-color: #427884;
+    border: none;
+    padding: 5px 20px;
+    color: white;
+    cursor: pointer;
+    transition: 0.3s all ease;
+}
+
+.approveModalActionsContainerCancelBtn{
+    background-color: rgb(231, 55, 55);
+    border: none;
+    padding: 5px 20px;
+    color: white;
+    cursor: pointer;
+    transition: 0.3s all ease;
+}
+
+.approveModalHeader{
+
+}
+
+.fileDeleteApproveContainer{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.fileDeleteApproveBtn{
+    background-color: #427884;
+    border: none;
+    padding: 5px 20px;
+    color: white;
+    cursor: pointer;
+    transition: 0.3s all ease;
+}
+
+.fileDeleteCancelBtn{
+    background-color: rgb(231, 55, 55);
+    border: none;
+    padding: 5px 20px;
+    color: white;
+    cursor: pointer;
+    transition: 0.3s all ease;
+}

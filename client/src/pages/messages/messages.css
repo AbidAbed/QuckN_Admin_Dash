@@ -1,0 +1,71 @@
+
+.messages {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 6;
+  }
+  
+  .message-filter-header{
+    margin: 20px 0px;
+    text-align: center;
+    color: #427884;
+  }
+
+  .messages-form-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    width: 100%;
+    max-width: 1500px;
+    padding: 30px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin: 20px;
+  }
+  
+  .message-form-row {
+    flex: 1 0 30%; /* Three inputs per row */
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin: 18px;
+  }
+
+
+  .messages-label{
+    width: 100%;
+    max-width: 300px;
+    padding: 8px;
+    font-size: 18px;
+    font-weight: 400;
+    border-radius: 4px;
+    background-color: #427884;
+    color: white;
+  }
+
+  .mesages-select {
+    width: 100%;
+    max-width: 300px;
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  
+  .messagesSortBtn {
+    width: 100%;
+    max-width: 200px;
+    padding: 8px;
+    margin: 10px 5px;
+    border-radius: 10px;
+    font-size: 18px;
+    border: none;
+    background-color: #427884;
+    color: white;
+    cursor: pointer;
+    transition: 0.5s all ease;
+  }
+  
+  .messagesSortBtn:hover {
+    background-color: #0056b3;
+  }

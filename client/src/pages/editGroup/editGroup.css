@@ -1,0 +1,34 @@
+.editGroup{
+    flex: 6;
+}
+
+.addGroupMemberBtn{
+    margin: 10px;
+    border: none;
+    background-color: #427884;
+    color: white;
+    padding: 5px 10px;
+    text-transform: capitalize;
+    cursor: pointer;
+    transition: 0.4s all ease;
+}
+.addGroupMemberBtn:hover{
+    background-color: #215e6b;
+    transform: scale(0.95);
+}
+
+.removeGroupMemberBtn{
+    margin: 10px;
+    border: none;
+    background-color:rgb(210, 54, 54);
+    color: white;
+    text-transform: capitalize;
+    padding: 5px;
+    cursor: pointer;
+    transition: 0.4s all ease;
+}
+
+.removeGroupMemberBtn:hover{
+    background-color: rgb(218, 33, 33);
+    transform: scale(0.95);
+}

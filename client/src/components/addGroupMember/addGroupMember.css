@@ -1,0 +1,66 @@
+.groupMember{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction: column;
+    overflow-x: hidden;
+    position: fixed;
+    inset: 0;
+    z-index: 100;
+    background-color: rgba(72, 72, 72, 0.639);
+}
+
+.groupMember_container{
+    background-color: white;
+    padding: 50px;
+    width:600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.groupMember_container_header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    gap: 15px;
+}
+
+.groupMember_container_header-tag{
+    color: black;
+    font-size: 30px;
+}
+
+.createChatCancelIcon{
+    font-size: 30px;
+    color: red;
+    cursor: pointer;
+}
+
+.groupMember_users--container{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    width: 100%;
+    background-color: rgb(213, 51, 51);
+    padding: 15px;
+    gap: 20px;
+    overflow-y: scroll;
+    max-height: 280px;
+    z-index: 10;
+    border-bottom: 1px solid black;
+}
+
+.groupMember__container__users--container--user{
+     background-color: rgba(222, 106, 106, 0.644);
+    width: 100%;
+    font-size: 20px;
+    padding: 10px;
+    cursor: pointer;
+    color: white;
+    font-weight: 500;
+    }
+
